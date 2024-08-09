@@ -85,7 +85,7 @@ umidita	it	Umidità	Umidità	4.4.3 Umidità - Tabella 4.38, p. 188	https://lod.n
 usda_cl_gran	it	Classe granulometrica	Classe granulometrica  (USDA)	4.4.6 Tessitura, Classe granulometrica - Tabelle 4.46 e 4.47, p. 195	https://lod.nal.usda.gov/nalt/33651	en	Particle Size Class	Particle Size Class (USDA)	4.4.6 Texture, Particle Size Class - Tables 4.46 and 4.47, p. 195
 usda_cl_tess	it	Classe tessiturale	Classe tessiturale (USDA)	4.4.6 Tessitura, Classe tessiturale - Figura 4.12, p. 192	https://lod.nal.usda.gov/nalt/26740	en	Texture Class	Textural Class (USDA)	4.4.6 Texture, Textural Class - Figure 4.12, p. 192
 uso_suolo	it	Uso del suolo	Uso del suolo	4.3.3 Uso del suolo e vegetazione, Uso del suolo - Tabella 4.25, p. 173	http://w3id.org/glosis/model/codelists/landUseClassValueCode	en	land Use	Land Use and Vegetation, Land Use	4.3.3 Land Use and Vegetation, Land Use - Table 4.25, p. 173
-vegetaz	it	Vegetazione	Tipo di vegetazione reale	4.3.3 Uso del suolo e vegetazione, Tipo di vegetazione reale - Tabella 4.26, p. 177	http://w3id.org/glosis/model/codelists/VegetationClassValueCode	en	Land cover	Land Use and Vegetation, Type of Actual Vegetation	4.3.3 Land Use and Vegetation, Type of Actual Vegetation - Table 4.26, p. 177
+[vegetazValue[1].csv](https://github.com/user-attachments/files/16563846/vegetazValue.1.csv)	it	Vegetazione	Tipo di vegetazione reale	4.3.3 Uso del suolo e vegetazione, Tipo di vegetazione reale - Tabella 4.26, p. 177	http://w3id.org/glosis/model/codelists/VegetationClassValueCode	en	Land cover	Land Use and Vegetation, Type of Actual Vegetation	4.3.3 Land Use and Vegetation, Type of Actual Vegetation - Table 4.26, p. 177
 ![image](https://github.com/user-attachments/assets/b3311c7a-331a-4e49-aaa5-96b01362ebe8)
 
 
