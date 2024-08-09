@@ -1,0 +1,3 @@
+localid,Language,label,description,definition
+gest_acque,it,"Gestione delle acque, tipo","Gestione delle acque, Tipo","4.5.7 Gestione delle acque, Tipo - Tabella 4.95, p. 226. https://doi.org/10.5281/zenodo.7589089"
+gest_acque,en,"Water Management, Type","Water Management, Type","4.5.7 Water Management, Type - Table 4.95, p. 226. https://doi.org/10.5281/zenodo.7589089"

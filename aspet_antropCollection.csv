@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+aspet_antrop,it,Aspetti antropici,Aspetti superficiali antropogenici,"4.3.4 Caratteri di superficie. Aspetti superficiali, antropogenici - Tabella 4.28, p. 179. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/HumanInfluenceClassValueCode
+aspet_antrop,en,antropic Surface Features,Human influence - class,"4.3.4 Surface Features, Surface Anthropogenic Aspects - Table 4.28, p. 179. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/HumanInfluenceClassValueCode

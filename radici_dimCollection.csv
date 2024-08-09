@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+radici_dim,it,"Radici, dimensioni",Dimensione delle radici,"4.4.16 Radici. Classi dimensionali delle radici - Tabella 4.75, p. 214. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/StructureSizeValueCode
+radici_dim,en,"Roots, Size","Roots, Root Size","4.4.16 Roots, Root Size Classes - Table 4.75, p. 214. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/StructureSizeValueCode

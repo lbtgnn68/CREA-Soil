@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+falda_alim,it,"Falda, alimentazione","Falda superficiale, Tipo di alimentazione","4.5.1 Falda superficiale, Tipo di alimentazione - Tabella 4.85, p. 222. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/34498
+falda_alim,en,"Groundwater, Recharge","Groundwater, Recharge","4.5.1 Groundwater, Recharge - Table 4.85, p. 222. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/34498

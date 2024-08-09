@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+effervescenza,it,"Effervescenza, grado",Grado di effervescenza all'acido cloridriclo,"4.4.18 Effervescenza all?HCl, Grado - Tabella 4.80, p. 217. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CarbonatesContentValueCode
+effervescenza,en,"Effervescence, Degree",Degree of Effervescence with Hydrochloric Acid,"4.4.18 Effervescence with HCl, Degree - Table 4.80, p. 217. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CarbonatesContentValueCode

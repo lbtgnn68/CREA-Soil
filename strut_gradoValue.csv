@@ -1,0 +1,11 @@
+localid,Language,collection,label,description ,definition,status
+1,it,strut_grado,1,sciolto o incoerente,sciolto o incoerente,https://inspire.ec.europa.eu/registry/status/valid
+2,it,strut_grado,2,massivo,massivo,https://inspire.ec.europa.eu/registry/status/valid
+3,it,strut_grado,3,debolmente sviluppata,debolmente sviluppata,https://inspire.ec.europa.eu/registry/status/valid
+4,it,strut_grado,4,moderatamente sviluppata,moderatamente sviluppata,https://inspire.ec.europa.eu/registry/status/valid
+5,it,strut_grado,5,fortemente sviluppata,fortemente sviluppata,https://inspire.ec.europa.eu/registry/status/valid
+1,en,strut_grado,1,structureless,structureless,https://inspire.ec.europa.eu/registry/status/valid
+2,en,strut_grado,2,massive,massive,https://inspire.ec.europa.eu/registry/status/valid
+3,en,strut_grado,3,weak,weak,https://inspire.ec.europa.eu/registry/status/valid
+4,en,strut_grado,4,moderate,moderate,https://inspire.ec.europa.eu/registry/status/valid
+5,en,strut_grado,5,strong,strong,https://inspire.ec.europa.eu/registry/status/valid

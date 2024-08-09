@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+permeab,it,Permeabilit…,Conducibilit… idraulica satura (Ksat),"4.4.11 Permeabilit… - Tabella 4.61, p. 207. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/52082
+permeab,en,Hydraulic conductivity,Hydraulic conductivity -saturated,"4.4.11 Permeability - Table 4.61, p. 207. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/52082

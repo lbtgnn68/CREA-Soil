@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+lim_and,it,"Limite, andamento",Andamento del limite inferiore degli orizzonti,"4.4.1 Profondit…, spessore e limite inferiore, Andamento - Tabella 4.36, p. 186. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/BoundaryTopographyValueCode
+lim_and,en,Boundary Topography,Horizon boundary - topography,"4.4.1 Depth, Thickness and Lower Limit, Pattern - Table 4.36, p. 186. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/BoundaryTopographyValueCode

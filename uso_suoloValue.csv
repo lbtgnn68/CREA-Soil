@@ -1,0 +1,261 @@
+localid,Language,collection,label,description ,definition,status
+1,it,uso_suolo,1,superfici artificiali: ambiente urbanizzato,superfici artificiali: ambiente urbanizzato,https://inspire.ec.europa.eu/registry/status/valid
+11,it,uso_suolo,11,insediamento residenziale,insediamento residenziale,https://inspire.ec.europa.eu/registry/status/valid
+12,it,uso_suolo,12,"insediamento produttivo, servizi, reti, infrastrutture","insediamento produttivo, servizi, reti, infrastrutture",https://inspire.ec.europa.eu/registry/status/valid
+13,it,uso_suolo,13,"aree estrattive, cantieri, discariche e terreni artefatti ","aree estrattive, cantieri, discariche e terreni artefatti ",https://inspire.ec.europa.eu/registry/status/valid
+131,it,uso_suolo,131,aree estrattiva,aree estrattiva,https://inspire.ec.europa.eu/registry/status/valid
+132,it,uso_suolo,132,discarica,discarica,https://inspire.ec.europa.eu/registry/status/valid
+133,it,uso_suolo,133,cantiere,cantiere,https://inspire.ec.europa.eu/registry/status/valid
+14,it,uso_suolo,14,"area verde urbana; ricreativa e sportive, cimitero","area verde urbana; ricreativa e sportive, cimitero",https://inspire.ec.europa.eu/registry/status/valid
+141,it,uso_suolo,141,aree verdi urbane (comprende cimiteri),aree verdi urbane (comprende cimiteri),https://inspire.ec.europa.eu/registry/status/valid
+142,it,uso_suolo,142,"aree sportive, ricreative e archeologiche","aree sportive, ricreative e archeologiche",https://inspire.ec.europa.eu/registry/status/valid
+2,it,uso_suolo,2,superfici agricole utilizzate,superfici agricole utilizzate,https://inspire.ec.europa.eu/registry/status/valid
+21,it,uso_suolo,21,seminativi,seminativi,https://inspire.ec.europa.eu/registry/status/valid
+211,it,uso_suolo,211,seminativi in aree non irrigue,seminativi in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+2111,it,uso_suolo,2111,seminativi semplici in aree non irrigue,seminativi semplici in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21111,it,uso_suolo,21111,Mais in aree non irrigue,Mais in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21112,it,uso_suolo,21112,Soia in aree non irrigue,Soia in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21113,it,uso_suolo,21113,Barbabietola in aree non irrigue,Barbabietola in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21114,it,uso_suolo,21114,girasole in aree non irrigue,girasole in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+2112,it,uso_suolo,2112,vivai in aree non irrigue,vivai in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+2113,it,uso_suolo,2113,colture orticole in pieno campo o protette in aree non irrigue,colture orticole in pieno campo o protette in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+212,it,uso_suolo,212,seminativi in aree irrigue,seminativi in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+2121,it,uso_suolo,2121,seminativi semplici in aree irrigue,seminativi semplici in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21211,it,uso_suolo,21211,Mais in aree irrigue,Mais in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21212,it,uso_suolo,21212,Soia in aree irrigue,Soia in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21213,it,uso_suolo,21213,Barbabietola in aree irrigue,Barbabietola in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21214,it,uso_suolo,21214,girasole in aree irrigue,girasole in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+2122,it,uso_suolo,2122,vivai in aree irrigue,vivai in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21221,it,uso_suolo,21221,cereali in aree irrigue,cereali in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+2123,it,uso_suolo,2123,colture orticole in pieno campo o protette in aree irrigue,colture orticole in pieno campo o protette in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+213,it,uso_suolo,213,risaie,risaie,https://inspire.ec.europa.eu/registry/status/valid
+22,it,uso_suolo,22,colture permanenti,colture permanenti,https://inspire.ec.europa.eu/registry/status/valid
+221,it,uso_suolo,221,vigneti,vigneti,https://inspire.ec.europa.eu/registry/status/valid
+2211,it,uso_suolo,2211,vigneti specializzati,vigneti specializzati,https://inspire.ec.europa.eu/registry/status/valid
+2212,it,uso_suolo,2212,vigneti misti ad altre colture permanenti,vigneti misti ad altre colture permanenti,https://inspire.ec.europa.eu/registry/status/valid
+222,it,uso_suolo,222,frutteti: frutti minori e piccoli frutti,frutteti: frutti minori e piccoli frutti,https://inspire.ec.europa.eu/registry/status/valid
+2221,it,uso_suolo,2221,drupacee,drupacee,https://inspire.ec.europa.eu/registry/status/valid
+2222,it,uso_suolo,2222,pomacee,pomacee,https://inspire.ec.europa.eu/registry/status/valid
+2223,it,uso_suolo,2223,agrumi,agrumi,https://inspire.ec.europa.eu/registry/status/valid
+2224,it,uso_suolo,2224,frutti di bosco,frutti di bosco,https://inspire.ec.europa.eu/registry/status/valid
+2225,it,uso_suolo,2225,frutti minori,frutti minori,https://inspire.ec.europa.eu/registry/status/valid
+22251,it,uso_suolo,22251,carrubeti,carrubeti,https://inspire.ec.europa.eu/registry/status/valid
+22252,it,uso_suolo,22252,fichi,fichi,https://inspire.ec.europa.eu/registry/status/valid
+22253,it,uso_suolo,22253,kiwi,kiwi,https://inspire.ec.europa.eu/registry/status/valid
+22254,it,uso_suolo,22254,fichi d'india,fichi d'india,https://inspire.ec.europa.eu/registry/status/valid
+22255,it,uso_suolo,22255,pistacchi,pistacchi,https://inspire.ec.europa.eu/registry/status/valid
+22256,it,uso_suolo,22256,altri frutti minori,altri frutti minori,https://inspire.ec.europa.eu/registry/status/valid
+223,it,uso_suolo,223,oliveti,oliveti,https://inspire.ec.europa.eu/registry/status/valid
+2231,it,uso_suolo,2231,oliveti specializzati,oliveti specializzati,https://inspire.ec.europa.eu/registry/status/valid
+2232,it,uso_suolo,2232,oliveti misti ad altre colture permanenti,oliveti misti ad altre colture permanenti,https://inspire.ec.europa.eu/registry/status/valid
+224,it,uso_suolo,224,altre colture permanenti,altre colture permanenti,https://inspire.ec.europa.eu/registry/status/valid
+2241,it,uso_suolo,2241,arboricoltura da legno,arboricoltura da legno,https://inspire.ec.europa.eu/registry/status/valid
+22411,it,uso_suolo,22411,"pioppeti, saliceti, altre latifoglie","pioppeti, saliceti, altre latifoglie",https://inspire.ec.europa.eu/registry/status/valid
+224111,it,uso_suolo,224111,pioppeti,pioppeti,https://inspire.ec.europa.eu/registry/status/valid
+224112,it,uso_suolo,224112,saliceti,saliceti,https://inspire.ec.europa.eu/registry/status/valid
+224113,it,uso_suolo,224113,altre latifoglie,altre latifoglie,https://inspire.ec.europa.eu/registry/status/valid
+22412,it,uso_suolo,22412,conifere a rapido accrescimento,conifere a rapido accrescimento,https://inspire.ec.europa.eu/registry/status/valid
+2242,it,uso_suolo,2242,castagneti da frutto,castagneti da frutto,https://inspire.ec.europa.eu/registry/status/valid
+2243,it,uso_suolo,2243,corileti da frutto (noccioli),corileti da frutto (noccioli),https://inspire.ec.europa.eu/registry/status/valid
+2244,it,uso_suolo,2244,noceti da frutto,noceti da frutto,https://inspire.ec.europa.eu/registry/status/valid
+2245,it,uso_suolo,2245,altre colture (ad esempio eucalipti da frasca ornamentale),altre colture (ad esempio eucalipti da frasca ornamentale),https://inspire.ec.europa.eu/registry/status/valid
+23,it,uso_suolo,23,prati stabili (foraggere permanenti),prati stabili (foraggere permanenti),https://inspire.ec.europa.eu/registry/status/valid
+231,it,uso_suolo,231,superfici a copertura erbacea densa (princ. graminacee) non soggette a rotazione,superfici a copertura erbacea densa (princ. graminacee) non soggette a rotazione,https://inspire.ec.europa.eu/registry/status/valid
+2311,it,uso_suolo,2311,prato permanente asciutto,prato permanente asciutto,https://inspire.ec.europa.eu/registry/status/valid
+2312,it,uso_suolo,2312,prato permanente irriguo,prato permanente irriguo,https://inspire.ec.europa.eu/registry/status/valid
+24,it,uso_suolo,24,zone agricole eterogenee,zone agricole eterogenee,https://inspire.ec.europa.eu/registry/status/valid
+241,it,uso_suolo,241,colture temporanee associate a colture permanenti,colture temporanee associate a colture permanenti,https://inspire.ec.europa.eu/registry/status/valid
+2411,it,uso_suolo,2411,colture temporanee associate a olivi,colture temporanee associate a olivi,https://inspire.ec.europa.eu/registry/status/valid
+2412,it,uso_suolo,2412,colture temporanee associate a viti,colture temporanee associate a viti,https://inspire.ec.europa.eu/registry/status/valid
+2413,it,uso_suolo,2413,colture temporanee associate a olivi e viti,colture temporanee associate a olivi e viti,https://inspire.ec.europa.eu/registry/status/valid
+2414,it,uso_suolo,2414,colture temporanee associate a frutteti misti,colture temporanee associate a frutteti misti,https://inspire.ec.europa.eu/registry/status/valid
+242,it,uso_suolo,242,sistemi colturali e particellari complessi,sistemi colturali e particellari complessi,https://inspire.ec.europa.eu/registry/status/valid
+243,it,uso_suolo,243,area agricola con presenza di spazi naturali,area agricola con presenza di spazi naturali,https://inspire.ec.europa.eu/registry/status/valid
+244,it,uso_suolo,244,area agroforestale,area agroforestale,https://inspire.ec.europa.eu/registry/status/valid
+3,it,uso_suolo,3,superfici boscate ed altri ambienti seminaturali,superfici boscate ed altri ambienti seminaturali,https://inspire.ec.europa.eu/registry/status/valid
+31,it,uso_suolo,31,area boscata,area boscata,https://inspire.ec.europa.eu/registry/status/valid
+311,it,uso_suolo,311,bosco di latifoglie,bosco di latifoglie,https://inspire.ec.europa.eu/registry/status/valid
+3111,it,uso_suolo,3111,bosco di leccio e sughera,bosco di leccio e sughera,https://inspire.ec.europa.eu/registry/status/valid
+3112,it,uso_suolo,3112,bosco di querce caducifoglie,bosco di querce caducifoglie,https://inspire.ec.europa.eu/registry/status/valid
+3113,it,uso_suolo,3113,bosco di latifoglie mesofile,bosco di latifoglie mesofile,https://inspire.ec.europa.eu/registry/status/valid
+3114,it,uso_suolo,3114,bosco di castagno,bosco di castagno,https://inspire.ec.europa.eu/registry/status/valid
+3115,it,uso_suolo,3115,bosco di faggio,bosco di faggio,https://inspire.ec.europa.eu/registry/status/valid
+3116,it,uso_suolo,3116,bosco di specie igrofile,bosco di specie igrofile,https://inspire.ec.europa.eu/registry/status/valid
+3117,it,uso_suolo,3117,bosco di latifoglie non native,bosco di latifoglie non native,https://inspire.ec.europa.eu/registry/status/valid
+312,it,uso_suolo,312,bosco di conifere,bosco di conifere,https://inspire.ec.europa.eu/registry/status/valid
+3121,it,uso_suolo,3121,bosco di pini mediterranei,bosco di pini mediterranei,https://inspire.ec.europa.eu/registry/status/valid
+3122,it,uso_suolo,3122,bosco di pini montani e oromediterranei,bosco di pini montani e oromediterranei,https://inspire.ec.europa.eu/registry/status/valid
+3123,it,uso_suolo,3123,bosco di abete bianco e/o abete rosso,bosco di abete bianco e/o abete rosso,https://inspire.ec.europa.eu/registry/status/valid
+3124,it,uso_suolo,3124,bosco di larice e/o pino cembro,bosco di larice e/o pino cembro,https://inspire.ec.europa.eu/registry/status/valid
+3125,it,uso_suolo,3125,bosco di conifere non native,bosco di conifere non native,https://inspire.ec.europa.eu/registry/status/valid
+313,it,uso_suolo,313,bosco misto di conifere e latifoglie,bosco misto di conifere e latifoglie,https://inspire.ec.europa.eu/registry/status/valid
+3131,it,uso_suolo,3131,bosco misto a prevalenza di latifoglie,bosco misto a prevalenza di latifoglie,https://inspire.ec.europa.eu/registry/status/valid
+31311,it,uso_suolo,31311,bosco misto a prevalenza di leccio,bosco misto a prevalenza di leccio,https://inspire.ec.europa.eu/registry/status/valid
+31312,it,uso_suolo,31312,bosco misto a prevalenza di querce caducifoglie,bosco misto a prevalenza di querce caducifoglie,https://inspire.ec.europa.eu/registry/status/valid
+31313,it,uso_suolo,31313,bosco misto a prevalenza di latifoglie mesofile,bosco misto a prevalenza di latifoglie mesofile,https://inspire.ec.europa.eu/registry/status/valid
+31314,it,uso_suolo,31314,bosco misto a prevalenza di castagno,bosco misto a prevalenza di castagno,https://inspire.ec.europa.eu/registry/status/valid
+31315,it,uso_suolo,31315,bosco misto a prevalenza di faggio,bosco misto a prevalenza di faggio,https://inspire.ec.europa.eu/registry/status/valid
+31316,it,uso_suolo,31316,bosco misto a prevalenza di specie igrofile,bosco misto a prevalenza di specie igrofile,https://inspire.ec.europa.eu/registry/status/valid
+31317,it,uso_suolo,31317,bosco misto a prevalenza di latifoglie non native,bosco misto a prevalenza di latifoglie non native,https://inspire.ec.europa.eu/registry/status/valid
+3132,it,uso_suolo,3132,bosco misto a prevalenza di conifere,bosco misto a prevalenza di conifere,https://inspire.ec.europa.eu/registry/status/valid
+31321,it,uso_suolo,31321,bosco misto a prevalenza di pini mediterranei,bosco misto a prevalenza di pini mediterranei,https://inspire.ec.europa.eu/registry/status/valid
+31322,it,uso_suolo,31322,bosco misto a prevalenza di pini montani e/o oromediterranei,bosco misto a prevalenza di pini montani e/o oromediterranei,https://inspire.ec.europa.eu/registry/status/valid
+31323,it,uso_suolo,31323,bosco misto a prevalenza di abete bianco e/o abete rosso,bosco misto a prevalenza di abete bianco e/o abete rosso,https://inspire.ec.europa.eu/registry/status/valid
+31324,it,uso_suolo,31324,bosco a prevalenza di larice e/o pino cembro,bosco a prevalenza di larice e/o pino cembro,https://inspire.ec.europa.eu/registry/status/valid
+31325,it,uso_suolo,31325,bosco a prevalenza di conifere non native,bosco a prevalenza di conifere non native,https://inspire.ec.europa.eu/registry/status/valid
+32,it,uso_suolo,32,ambienti caratterizzati da copertura vegetale in evoluzione naturale,ambienti caratterizzati da copertura vegetale in evoluzione naturale,https://inspire.ec.europa.eu/registry/status/valid
+321,it,uso_suolo,321,pascolo naturale e/o praterie di alta quota,pascolo naturale e/o praterie di alta quota,https://inspire.ec.europa.eu/registry/status/valid
+322,it,uso_suolo,322,cespuglieti e arbusteti,cespuglieti e arbusteti,https://inspire.ec.europa.eu/registry/status/valid
+323,it,uso_suolo,323,aree a vegetazione sclerofilla,aree a vegetazione sclerofilla,https://inspire.ec.europa.eu/registry/status/valid
+3231,it,uso_suolo,3231,macchia alta,macchia alta,https://inspire.ec.europa.eu/registry/status/valid
+3232,it,uso_suolo,3232,macchia bassa e garighe,macchia bassa e garighe,https://inspire.ec.europa.eu/registry/status/valid
+324,it,uso_suolo,324,aree a vegetazione arborea e arbustiva in evoluzione,aree a vegetazione arborea e arbustiva in evoluzione,https://inspire.ec.europa.eu/registry/status/valid
+3241,it,uso_suolo,3241,aree a ricolonizzazione naturale,aree a ricolonizzazione naturale,https://inspire.ec.europa.eu/registry/status/valid
+3242,it,uso_suolo,3242,aree a ricolonizzazione artificiale,aree a ricolonizzazione artificiale,https://inspire.ec.europa.eu/registry/status/valid
+33,it,uso_suolo,33,zone aperte con vegetazione rada o assente,zone aperte con vegetazione rada o assente,https://inspire.ec.europa.eu/registry/status/valid
+331,it,uso_suolo,331,"spiagge, dune e sabbie","spiagge, dune e sabbie",https://inspire.ec.europa.eu/registry/status/valid
+332,it,uso_suolo,332,"rocce nude, falesie, affioramenti","rocce nude, falesie, affioramenti",https://inspire.ec.europa.eu/registry/status/valid
+333,it,uso_suolo,333,"aree con vegetazione rada: comprende le steppe xerofile, steppe alofile e aree calanchive","aree con vegetazione rada: comprende le steppe xerofile, steppe alofile e aree calanchive",https://inspire.ec.europa.eu/registry/status/valid
+334,it,uso_suolo,334,aree interessate da incendi o da altri eventi dannosi,aree interessate da incendi o da altri eventi dannosi,https://inspire.ec.europa.eu/registry/status/valid
+3341,it,uso_suolo,3341,boschi percorsi da incendi,boschi percorsi da incendi,https://inspire.ec.europa.eu/registry/status/valid
+3342,it,uso_suolo,3342,altre aree della seminaturali percorse da incendi,altre aree della seminaturali percorse da incendi,https://inspire.ec.europa.eu/registry/status/valid
+3343,it,uso_suolo,3343,aree degradate per altri eventi,aree degradate per altri eventi,https://inspire.ec.europa.eu/registry/status/valid
+335,it,uso_suolo,335,ghiacciai e nevi perenni,ghiacciai e nevi perenni,https://inspire.ec.europa.eu/registry/status/valid
+4,it,uso_suolo,4,ambiente umido,ambiente umido,https://inspire.ec.europa.eu/registry/status/valid
+41,it,uso_suolo,41,zone umide interne,zone umide interne,https://inspire.ec.europa.eu/registry/status/valid
+411,it,uso_suolo,411,paludi interne,paludi interne,https://inspire.ec.europa.eu/registry/status/valid
+412,it,uso_suolo,412,torbiere,torbiere,https://inspire.ec.europa.eu/registry/status/valid
+42,it,uso_suolo,42,zone umide marittime,zone umide marittime,https://inspire.ec.europa.eu/registry/status/valid
+421,it,uso_suolo,421,paludi salmastre,paludi salmastre,https://inspire.ec.europa.eu/registry/status/valid
+422,it,uso_suolo,422,saline,saline,https://inspire.ec.europa.eu/registry/status/valid
+423,it,uso_suolo,423,zone intertidali marine,zone intertidali marine,https://inspire.ec.europa.eu/registry/status/valid
+1,en,uso_suolo,1,urban areas,urban areas,https://inspire.ec.europa.eu/registry/status/valid
+11,en,uso_suolo,11,urban fabric,urban fabric,https://inspire.ec.europa.eu/registry/status/valid
+12,en,uso_suolo,12,industrial commercial,industrial commercial,https://inspire.ec.europa.eu/registry/status/valid
+13,en,uso_suolo,13,mine dump and construction sites,mine dump and construction sites,https://inspire.ec.europa.eu/registry/status/valid
+131,en,uso_suolo,131,dump sites landfill or mine dump sites industrial or public,dump sites landfill or mine dump sites industrial or public,https://inspire.ec.europa.eu/registry/status/valid
+132,en,uso_suolo,132,dump sites landfill or mine dump sites industrial or public,dump sites landfill or mine dump sites industrial or public,https://inspire.ec.europa.eu/registry/status/valid
+133,en,uso_suolo,133,construction sites spaces under construction development soil or bedrock,construction sites spaces under construction development soil or bedrock,https://inspire.ec.europa.eu/registry/status/valid
+14,en,uso_suolo,14,artificial nonagricultural vegetated areas,artificial nonagricultural vegetated areas,https://inspire.ec.europa.eu/registry/status/valid
+141,en,uso_suolo,141,sport and leisure facilities,sport and leisure facilities,https://inspire.ec.europa.eu/registry/status/valid
+142,en,uso_suolo,142,sport and leisure facilities,sport and leisure facilities,https://inspire.ec.europa.eu/registry/status/valid
+2,en,uso_suolo,2,croplands,croplands,https://inspire.ec.europa.eu/registry/status/valid
+21,en,uso_suolo,21,arable land cultivated areas regularly ploughed and generally under a rotation system,arable land cultivated areas regularly ploughed and generally under a rotation system,https://inspire.ec.europa.eu/registry/status/valid
+211,en,uso_suolo,211,non-irrigated arable land cereals legumes fodder crops root crops and fallow land,non-irrigated arable land cereals legumes fodder crops root crops and fallow land,https://inspire.ec.europa.eu/registry/status/valid
+2111,en,uso_suolo,2111,simple row crops in not irrigated land,simple row crops in not irrigated land,https://inspire.ec.europa.eu/registry/status/valid
+21111,en,uso_suolo,21111,Mais in aree non irrigue,Mais in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21112,en,uso_suolo,21112,Soia in aree non irrigue,Soia in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21113,en,uso_suolo,21113,Barbabietole in aree non irrigue,Barbabietole in aree non irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21114,en,uso_suolo,21114,sunflowers in not irrigated lands,sunflowers in not irrigated lands,https://inspire.ec.europa.eu/registry/status/valid
+2112,en,uso_suolo,2112,see-bed in not irrigated land,see-bed in not irrigated land,https://inspire.ec.europa.eu/registry/status/valid
+2113,en,uso_suolo,2113,horticulture in open field in not irrigated land,horticulture in open field in not irrigated land,https://inspire.ec.europa.eu/registry/status/valid
+212,en,uso_suolo,212,row crops in permanently irrigated land,row crops in permanently irrigated land,https://inspire.ec.europa.eu/registry/status/valid
+2121,en,uso_suolo,2121,simple row crops in permanently irrigated land,simple row crops in permanently irrigated land,https://inspire.ec.europa.eu/registry/status/valid
+21211,en,uso_suolo,21211,Soia in aree irrigue,Soia in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21212,en,uso_suolo,21212,Soia in aree irrigue,Soia in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21213,en,uso_suolo,21213,Barbabietole in aree irrigue,Barbabietole in aree irrigue,https://inspire.ec.europa.eu/registry/status/valid
+21214,en,uso_suolo,21214,sunflowers in irrigated lands,sunflowers in irrigated lands,https://inspire.ec.europa.eu/registry/status/valid
+2122,en,uso_suolo,2122,seed-bed in permanently irrigated land,seed-bed in permanently irrigated land,https://inspire.ec.europa.eu/registry/status/valid
+21221,en,uso_suolo,21221,sunflowers in irrigated lands,sunflowers in irrigated lands,https://inspire.ec.europa.eu/registry/status/valid
+2123,en,uso_suolo,2123,horticulture in open field in irrigated land,horticulture in open field in irrigated land,https://inspire.ec.europa.eu/registry/status/valid
+213,en,uso_suolo,213,rice fields land developed for rice cultivation flat surfaces,rice fields land developed for rice cultivation flat surfaces,https://inspire.ec.europa.eu/registry/status/valid
+22,en,uso_suolo,22,"permanent crops, crops not under a rotation system which provide repeated","permanent crops, crops not under a rotation system which provide repeated",https://inspire.ec.europa.eu/registry/status/valid
+221,en,uso_suolo,221,vineyards areas planted with vines,vineyards areas planted with vines,https://inspire.ec.europa.eu/registry/status/valid
+2211,en,uso_suolo,2211,specialized vineyards,specialized vineyards,https://inspire.ec.europa.eu/registry/status/valid
+2212,en,uso_suolo,2212,vineyards associated with permanent crops,vineyards associated with permanent crops,https://inspire.ec.europa.eu/registry/status/valid
+222,en,uso_suolo,222,fruit trees and berry plantations,fruit trees and berry plantations,https://inspire.ec.europa.eu/registry/status/valid
+2221,en,uso_suolo,2221,drupaceous plants,drupaceous plants,https://inspire.ec.europa.eu/registry/status/valid
+2222,en,uso_suolo,2222,apple trees,apple trees,https://inspire.ec.europa.eu/registry/status/valid
+2223,en,uso_suolo,2223,citrus grove,citrus grove,https://inspire.ec.europa.eu/registry/status/valid
+2224,en,uso_suolo,2224,forest fruits,forest fruits,https://inspire.ec.europa.eu/registry/status/valid
+2225,en,uso_suolo,2225,small fruits,small fruits,https://inspire.ec.europa.eu/registry/status/valid
+22251,en,uso_suolo,22251,carob wood,carob wood,https://inspire.ec.europa.eu/registry/status/valid
+22252,en,uso_suolo,22252,fig trees,fig trees,https://inspire.ec.europa.eu/registry/status/valid
+22253,en,uso_suolo,22253,kiwi,kiwi,https://inspire.ec.europa.eu/registry/status/valid
+22254,en,uso_suolo,22254,indian fig trees,indian fig trees,https://inspire.ec.europa.eu/registry/status/valid
+22255,en,uso_suolo,22255,pistachios,pistachios,https://inspire.ec.europa.eu/registry/status/valid
+22256,en,uso_suolo,22256,other small fruits,other small fruits,https://inspire.ec.europa.eu/registry/status/valid
+223,en,uso_suolo,223,olive groves areas planted with olive trees,olive groves areas planted with olive trees,https://inspire.ec.europa.eu/registry/status/valid
+2231,en,uso_suolo,2231,specialized olive trees,specialized olive trees,https://inspire.ec.europa.eu/registry/status/valid
+2232,en,uso_suolo,2232,olive tree associated with permanent crops,olive tree associated with permanent crops,https://inspire.ec.europa.eu/registry/status/valid
+224,en,uso_suolo,224,other permanent crops,other permanent crops,https://inspire.ec.europa.eu/registry/status/valid
+2241,en,uso_suolo,2241,agroforestry,agroforestry,https://inspire.ec.europa.eu/registry/status/valid
+22411,en,uso_suolo,22411,"poplar wood, willow grove and other broad-leaved","poplar wood, willow grove and other broad-leaved",https://inspire.ec.europa.eu/registry/status/valid
+224111,en,uso_suolo,224111,poplar wood,poplar wood,https://inspire.ec.europa.eu/registry/status/valid
+224112,en,uso_suolo,224112,willow grove,willow grove,https://inspire.ec.europa.eu/registry/status/valid
+224113,en,uso_suolo,224113,other broad-leaved species,other broad-leaved species,https://inspire.ec.europa.eu/registry/status/valid
+22412,en,uso_suolo,22412,coniferous species in rapid growth,coniferous species in rapid growth,https://inspire.ec.europa.eu/registry/status/valid
+2242,en,uso_suolo,2242,chestnut wood,chestnut wood,https://inspire.ec.europa.eu/registry/status/valid
+2243,en,uso_suolo,2243,corilus avellana,corilus avellana,https://inspire.ec.europa.eu/registry/status/valid
+2244,en,uso_suolo,2244,walnut orchard,walnut orchard,https://inspire.ec.europa.eu/registry/status/valid
+2245,en,uso_suolo,2245,other row crops (es: ornamental eucaliptus),other row crops (es: ornamental eucaliptus),https://inspire.ec.europa.eu/registry/status/valid
+23,en,uso_suolo,23,pastures,pastures,https://inspire.ec.europa.eu/registry/status/valid
+231,en,uso_suolo,231,pastures dense predominantly graminoid grass cover,pastures dense predominantly graminoid grass cover,https://inspire.ec.europa.eu/registry/status/valid
+2311,en,uso_suolo,2311,not irrigated grassland,not irrigated grassland,https://inspire.ec.europa.eu/registry/status/valid
+2312,en,uso_suolo,2312,irrigated grassland,irrigated grassland,https://inspire.ec.europa.eu/registry/status/valid
+24,en,uso_suolo,24,heterogeneous croplands,heterogeneous croplands,https://inspire.ec.europa.eu/registry/status/valid
+241,en,uso_suolo,241,annual crops associated with permanent crops,annual crops associated with permanent crops,https://inspire.ec.europa.eu/registry/status/valid
+2411,en,uso_suolo,2411,annual crops associated with olive groves and vineyards,annual crops associated with olive groves and vineyards,https://inspire.ec.europa.eu/registry/status/valid
+2412,en,uso_suolo,2412,annual crops associated with vineyards,annual crops associated with vineyards,https://inspire.ec.europa.eu/registry/status/valid
+2413,en,uso_suolo,2413,annual crops associated with olive groves and,annual crops associated with olive groves and,https://inspire.ec.europa.eu/registry/status/valid
+2414,en,uso_suolo,2414,annual crops associated with mixed fruit trees,annual crops associated with mixed fruit trees,https://inspire.ec.europa.eu/registry/status/valid
+242,en,uso_suolo,242,complex cultivation juxtaposition of small parcels of diverse annual crops,complex cultivation juxtaposition of small parcels of diverse annual crops,https://inspire.ec.europa.eu/registry/status/valid
+243,en,uso_suolo,243,croplands associated with natural spaces,croplands associated with natural spaces,https://inspire.ec.europa.eu/registry/status/valid
+244,en,uso_suolo,244,agroforestal area,agroforestal area,https://inspire.ec.europa.eu/registry/status/valid
+3,en,uso_suolo,3,forests and seminatural areas,forests and seminatural areas,https://inspire.ec.europa.eu/registry/status/valid
+31,en,uso_suolo,31,forests,forests,https://inspire.ec.europa.eu/registry/status/valid
+311,en,uso_suolo,311,broad-leaved forests,broad-leaved forests,https://inspire.ec.europa.eu/registry/status/valid
+3111,en,uso_suolo,3111,forest of quercus ilex and coark trees,forest of quercus ilex and coark trees,https://inspire.ec.europa.eu/registry/status/valid
+3112,en,uso_suolo,3112,forest of caduc leaved quercus,forest of caduc leaved quercus,https://inspire.ec.europa.eu/registry/status/valid
+3113,en,uso_suolo,3113,forest of mesophil broad-leaved species,forest of mesophil broad-leaved species,https://inspire.ec.europa.eu/registry/status/valid
+3114,en,uso_suolo,3114,chestnut tree forests,chestnut tree forests,https://inspire.ec.europa.eu/registry/status/valid
+3115,en,uso_suolo,3115,forest of beech,forest of beech,https://inspire.ec.europa.eu/registry/status/valid
+3116,en,uso_suolo,3116,forest of hygrophilous species,forest of hygrophilous species,https://inspire.ec.europa.eu/registry/status/valid
+3117,en,uso_suolo,3117,forest of not native broad-leaved species,forest of not native broad-leaved species,https://inspire.ec.europa.eu/registry/status/valid
+312,en,uso_suolo,312,conifereous forest vegetation formation composed where coniferous species predominate,conifereous forest vegetation formation composed where coniferous species predominate,https://inspire.ec.europa.eu/registry/status/valid
+3121,en,uso_suolo,3121,forest of mediterranean pine trees,forest of mediterranean pine trees,https://inspire.ec.europa.eu/registry/status/valid
+3122,en,uso_suolo,3122,forest of montane pine trees and/or oromediterranean pine trees,forest of montane pine trees and/or oromediterranean pine trees,https://inspire.ec.europa.eu/registry/status/valid
+3123,en,uso_suolo,3123,forest of white fir and/or red fir tree,forest of white fir and/or red fir tree,https://inspire.ec.europa.eu/registry/status/valid
+3124,en,uso_suolo,3124,forest of larch and/or cembrus pine trees,forest of larch and/or cembrus pine trees,https://inspire.ec.europa.eu/registry/status/valid
+3125,en,uso_suolo,3125,forest of not native broad-leaved species dominate,forest of not native broad-leaved species dominate,https://inspire.ec.europa.eu/registry/status/valid
+313,en,uso_suolo,313,mixed forest vegetation formation composed where broad-leaved and coniferous species co-dominate,mixed forest vegetation formation composed where broad-leaved and coniferous species co-dominate,https://inspire.ec.europa.eu/registry/status/valid
+3131,en,uso_suolo,3131,mixed forest vegetation formation composed where broad-leaved species dominate,mixed forest vegetation formation composed where broad-leaved species dominate,https://inspire.ec.europa.eu/registry/status/valid
+31311,en,uso_suolo,31311,mixed forest vegetation formation composed where quercus ilex dominate,mixed forest vegetation formation composed where quercus ilex dominate,https://inspire.ec.europa.eu/registry/status/valid
+31312,en,uso_suolo,31312,mixed forest vegetation formation composed where qurcus species dominate,mixed forest vegetation formation composed where qurcus species dominate,https://inspire.ec.europa.eu/registry/status/valid
+31313,en,uso_suolo,31313,mixed forest vegetation formation composed where mesofile broad-leaved species dominate,mixed forest vegetation formation composed where mesofile broad-leaved species dominate,https://inspire.ec.europa.eu/registry/status/valid
+31314,en,uso_suolo,31314,mixed forest vegetation formation composed where chestnut tree dominate,mixed forest vegetation formation composed where chestnut tree dominate,https://inspire.ec.europa.eu/registry/status/valid
+31315,en,uso_suolo,31315,mixed forest vegetation formation composed where beech tree dominate,mixed forest vegetation formation composed where beech tree dominate,https://inspire.ec.europa.eu/registry/status/valid
+31316,en,uso_suolo,31316,mixed forest vegetation formation composed where not native coniferous species dominate,mixed forest vegetation formation composed where not native coniferous species dominate,https://inspire.ec.europa.eu/registry/status/valid
+31317,en,uso_suolo,31317,mixed forest vegetation formation composed where not native broad-leaved species dominate,mixed forest vegetation formation composed where not native broad-leaved species dominate,https://inspire.ec.europa.eu/registry/status/valid
+3132,en,uso_suolo,3132,mixed forest vegetation formation composed where coniferous species dominate,mixed forest vegetation formation composed where coniferous species dominate,https://inspire.ec.europa.eu/registry/status/valid
+31321,en,uso_suolo,31321,mixed forest vegetation formation composed where mediterranean pine trees dominate,mixed forest vegetation formation composed where mediterranean pine trees dominate,https://inspire.ec.europa.eu/registry/status/valid
+31322,en,uso_suolo,31322,mixed forest vegetation formation composed where montane pine trees and/or oromediterranean pine trees dominate,mixed forest vegetation formation composed where montane pine trees and/or oromediterranean pine trees dominate,https://inspire.ec.europa.eu/registry/status/valid
+31323,en,uso_suolo,31323,mixed forest vegetation formation composed where white fir and/or red fir tree dominate,mixed forest vegetation formation composed where white fir and/or red fir tree dominate,https://inspire.ec.europa.eu/registry/status/valid
+31324,en,uso_suolo,31324,forest where larch and/or cembrus pine trees dominate,forest where larch and/or cembrus pine trees dominate,https://inspire.ec.europa.eu/registry/status/valid
+31325,en,uso_suolo,31325,forest where not native coniferous species dominate,forest where not native coniferous species dominate,https://inspire.ec.europa.eu/registry/status/valid
+32,en,uso_suolo,32,shrub and/or herbaceous vegetation associations,shrub and/or herbaceous vegetation associations,https://inspire.ec.europa.eu/registry/status/valid
+321,en,uso_suolo,321,natural grassland low productivity grassland often situated in areas of rough uneven,natural grassland low productivity grassland often situated in areas of rough uneven,https://inspire.ec.europa.eu/registry/status/valid
+322,en,uso_suolo,322,moors and heathland vegetation with low and closed cover dominated by bushes shrubs and herbaceous plants,moors and heathland vegetation with low and closed cover dominated by bushes shrubs and herbaceous plants,https://inspire.ec.europa.eu/registry/status/valid
+323,en,uso_suolo,323,sclerophyllous vegetation,sclerophyllous vegetation,https://inspire.ec.europa.eu/registry/status/valid
+3231,en,uso_suolo,3231,high bush,high bush,https://inspire.ec.europa.eu/registry/status/valid
+3232,en,uso_suolo,3232,low bush,low bush,https://inspire.ec.europa.eu/registry/status/valid
+324,en,uso_suolo,324,transitional woodlands/shrub,transitional woodlands/shrub,https://inspire.ec.europa.eu/registry/status/valid
+3241,en,uso_suolo,3241,areas with natural colonization,areas with natural colonization,https://inspire.ec.europa.eu/registry/status/valid
+3242,en,uso_suolo,3242,areas with artificial colonization,areas with artificial colonization,https://inspire.ec.europa.eu/registry/status/valid
+33,en,uso_suolo,33,open spaces with little or no vegetation,open spaces with little or no vegetation,https://inspire.ec.europa.eu/registry/status/valid
+331,en,uso_suolo,331,beaches dunes and sand plains,beaches dunes and sand plains,https://inspire.ec.europa.eu/registry/status/valid
+332,en,uso_suolo,332,bare rock scree cliffs rocks and outcrops,bare rock scree cliffs rocks and outcrops,https://inspire.ec.europa.eu/registry/status/valid
+333,en,uso_suolo,333,sparsely vegetated areas includes steppes tundra and badlands scattered highattitude,sparsely vegetated areas includes steppes tundra and badlands scattered highattitude,https://inspire.ec.europa.eu/registry/status/valid
+334,en,uso_suolo,334,burnt areas areas affected by recent fires still mainly black,burnt areas areas affected by recent fires still mainly black,https://inspire.ec.europa.eu/registry/status/valid
+3341,en,uso_suolo,3341,forests with burnt areas,forests with burnt areas,https://inspire.ec.europa.eu/registry/status/valid
+3342,en,uso_suolo,3342,other seminatural areas with burnt spaces,other seminatural areas with burnt spaces,https://inspire.ec.europa.eu/registry/status/valid
+3343,en,uso_suolo,3343,degradated land by other facts,degradated land by other facts,https://inspire.ec.europa.eu/registry/status/valid
+335,en,uso_suolo,335,glaciers and perpetual snow,glaciers and perpetual snow,https://inspire.ec.europa.eu/registry/status/valid
+4,en,uso_suolo,4,wetlands,wetlands,https://inspire.ec.europa.eu/registry/status/valid
+41,en,uso_suolo,41,inland wetlands non-forested areas either partially seasonally or permanently waterlogged,inland wetlands non-forested areas either partially seasonally or permanently waterlogged,https://inspire.ec.europa.eu/registry/status/valid
+411,en,uso_suolo,411,inland marshes low-lying land usually flooded in winter and more or less saturated by water all year round,inland marshes low-lying land usually flooded in winter and more or less saturated by water all year round,https://inspire.ec.europa.eu/registry/status/valid
+412,en,uso_suolo,412,peatbogs peatland consisting mainly of decomposed moss and vegetable matter may or may not be exploited,peatbogs peatland consisting mainly of decomposed moss and vegetable matter may or may not be exploited,https://inspire.ec.europa.eu/registry/status/valid
+42,en,uso_suolo,42,coastal wetlands non-wooded areas either tidally seasonally or permanently waterlogged with brackish or saline water,coastal wetlands non-wooded areas either tidally seasonally or permanently waterlogged with brackish or saline water,https://inspire.ec.europa.eu/registry/status/valid
+421,en,uso_suolo,421,salt marshes vegetated low-lying areas above the high-tide line susceptible to flooding by sea water,salt marshes vegetated low-lying areas above the high-tide line susceptible to flooding by sea water,https://inspire.ec.europa.eu/registry/status/valid
+422,en,uso_suolo,422,salines salt-pans active or in process of structuring sections of salt marsh exploited for the production of salt by,salines salt-pans active or in process of structuring sections of salt marsh exploited for the production of salt by,https://inspire.ec.europa.eu/registry/status/valid
+423,en,uso_suolo,423,intertidal flats generally unvegetated expanses of mud sand or rock lying between high and low water-marks,intertidal flats generally unvegetated expanses of mud sand or rock lying between high and low water-marks,https://inspire.ec.europa.eu/registry/status/valid

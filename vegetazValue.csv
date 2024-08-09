@@ -1,0 +1,161 @@
+localid,Language,collection,label,description ,definition,status
+0,it,vegetaz,0,sconosciuto,sconosciuto,https://inspire.ec.europa.eu/registry/status/valid
+A00,it,vegetaz,A00,formazione di latifoglie sempreverdi,formazione di latifoglie sempreverdi,https://inspire.ec.europa.eu/registry/status/valid
+A01,it,vegetaz,A01,lecceta,lecceta,https://inspire.ec.europa.eu/registry/status/valid
+A02,it,vegetaz,A02,prevalenza di leccio con sempreverdi,prevalenza di leccio con sempreverdi,https://inspire.ec.europa.eu/registry/status/valid
+A03,it,vegetaz,A03,prevalenza di leccio con decidue,prevalenza di leccio con decidue,https://inspire.ec.europa.eu/registry/status/valid
+A04,it,vegetaz,A04,prevalenza di sughera,prevalenza di sughera,https://inspire.ec.europa.eu/registry/status/valid
+A05,it,vegetaz,A05,prevalenza di sempreverdi secondarie,prevalenza di sempreverdi secondarie,https://inspire.ec.europa.eu/registry/status/valid
+A06,it,vegetaz,A06,formazione mista solo sempreverdi,formazione mista solo sempreverdi,https://inspire.ec.europa.eu/registry/status/valid
+A07,it,vegetaz,A07,formazione mista con decidue,formazione mista con decidue,https://inspire.ec.europa.eu/registry/status/valid
+A08,it,vegetaz,A08,piantagione eucalipto,piantagione eucalipto,https://inspire.ec.europa.eu/registry/status/valid
+B00,it,vegetaz,B00,formazione di latifoglie a riposo invernale,formazione di latifoglie a riposo invernale,https://inspire.ec.europa.eu/registry/status/valid
+B01,it,vegetaz,B01,prevalenza di roverella,prevalenza di roverella,https://inspire.ec.europa.eu/registry/status/valid
+B02,it,vegetaz,B02,prevalenza di cerro,prevalenza di cerro,https://inspire.ec.europa.eu/registry/status/valid
+B03,it,vegetaz,B03,prevalenza di farnia,prevalenza di farnia,https://inspire.ec.europa.eu/registry/status/valid
+B04,it,vegetaz,B04,prevalenza di rovere,prevalenza di rovere,https://inspire.ec.europa.eu/registry/status/valid
+B05,it,vegetaz,B05,prevalenza di frainetto,prevalenza di frainetto,https://inspire.ec.europa.eu/registry/status/valid
+B06,it,vegetaz,B06,prevalenza di robinia,prevalenza di robinia,https://inspire.ec.europa.eu/registry/status/valid
+B07,it,vegetaz,B07,prevalenza di olmo,prevalenza di olmo,https://inspire.ec.europa.eu/registry/status/valid
+B08,it,vegetaz,B08,prevalenza di pioppo tremulo,prevalenza di pioppo tremulo,https://inspire.ec.europa.eu/registry/status/valid
+B09,it,vegetaz,B09,prevalenza di castagno,prevalenza di castagno,https://inspire.ec.europa.eu/registry/status/valid
+B10,it,vegetaz,B10,prevalenza di carpino nero e frassino,prevalenza di carpino nero e frassino,https://inspire.ec.europa.eu/registry/status/valid
+B11,it,vegetaz,B11,prevalenza di carpino bianco,prevalenza di carpino bianco,https://inspire.ec.europa.eu/registry/status/valid
+B12,it,vegetaz,B12,prevalenza di faggio,prevalenza di faggio,https://inspire.ec.europa.eu/registry/status/valid
+B13,it,vegetaz,B13,faggeta,faggeta,https://inspire.ec.europa.eu/registry/status/valid
+B14,it,vegetaz,B14,faggeto abetina,faggeto abetina,https://inspire.ec.europa.eu/registry/status/valid
+B15,it,vegetaz,B15,formazione mista solo decidue,formazione mista solo decidue,https://inspire.ec.europa.eu/registry/status/valid
+B16,it,vegetaz,B16,formazione mista di latifoglie caducifoglie con latifoglie sempreverdi,formazione mista di latifoglie caducifoglie con latifoglie sempreverdi,https://inspire.ec.europa.eu/registry/status/valid
+B17,it,vegetaz,B17,formazione mista con conifere,formazione mista con conifere,https://inspire.ec.europa.eu/registry/status/valid
+B18,it,vegetaz,B18,prevalenza di ontano napoletano,prevalenza di ontano napoletano,https://inspire.ec.europa.eu/registry/status/valid
+C00,it,vegetaz,C00,formazione di latifoglie igrofile,formazione di latifoglie igrofile,https://inspire.ec.europa.eu/registry/status/valid
+C01,it,vegetaz,C01,saliceto,saliceto,https://inspire.ec.europa.eu/registry/status/valid
+C02,it,vegetaz,C02,saliceto a pioppi,saliceto a pioppi,https://inspire.ec.europa.eu/registry/status/valid
+C03,it,vegetaz,C03,alneto,alneto,https://inspire.ec.europa.eu/registry/status/valid
+C04,it,vegetaz,C04,formazione a frassino angustifolia,formazione a frassino angustifolia,https://inspire.ec.europa.eu/registry/status/valid
+D00,it,vegetaz,D00,formazione di aghifoglie termofile,formazione di aghifoglie termofile,https://inspire.ec.europa.eu/registry/status/valid
+D01,it,vegetaz,D01,pineta di pino domestico,pineta di pino domestico,https://inspire.ec.europa.eu/registry/status/valid
+D02,it,vegetaz,D02,pineta di pino d'aleppo,pineta di pino d'aleppo,https://inspire.ec.europa.eu/registry/status/valid
+D03,it,vegetaz,D03,formazione dominata da pino marittimo,formazione dominata da pino marittimo,https://inspire.ec.europa.eu/registry/status/valid
+D04,it,vegetaz,D04,cipresseta,cipresseta,https://inspire.ec.europa.eu/registry/status/valid
+D05,it,vegetaz,D05,formazione di aghifoglie termofile mista con latifoglie sempreverdi,formazione di aghifoglie termofile mista con latifoglie sempreverdi,https://inspire.ec.europa.eu/registry/status/valid
+D06,it,vegetaz,D06,formazione mista con latifoglie decidue,formazione mista con latifoglie decidue,https://inspire.ec.europa.eu/registry/status/valid
+D07,it,vegetaz,D07,formazione a pino insigne,formazione a pino insigne,https://inspire.ec.europa.eu/registry/status/valid
+E00,it,vegetaz,E00,formazione di aghifoglie meso e microtermiche,formazione di aghifoglie meso e microtermiche,https://inspire.ec.europa.eu/registry/status/valid
+E01,it,vegetaz,E01,bosco di pino silvestre,bosco di pino silvestre,https://inspire.ec.europa.eu/registry/status/valid
+E02,it,vegetaz,E02,formazione di pino nero d'Austria,formazione di pino nero d'Austria,https://inspire.ec.europa.eu/registry/status/valid
+E03,it,vegetaz,E03,pineta di pino laricio,pineta di pino laricio,https://inspire.ec.europa.eu/registry/status/valid
+E04,it,vegetaz,E04,pineta di pino calabro,pineta di pino calabro,https://inspire.ec.europa.eu/registry/status/valid
+E05,it,vegetaz,E05,abetina,abetina,https://inspire.ec.europa.eu/registry/status/valid
+E06,it,vegetaz,E06,piantagione di douglasia,piantagione di douglasia,https://inspire.ec.europa.eu/registry/status/valid
+E07,it,vegetaz,E07,peccete,peccete,https://inspire.ec.europa.eu/registry/status/valid
+E08,it,vegetaz,E08,lariceto,lariceto,https://inspire.ec.europa.eu/registry/status/valid
+E09,it,vegetaz,E09,formazione chiusa arbustiva (mugheto),formazione chiusa arbustiva (mugheto),https://inspire.ec.europa.eu/registry/status/valid
+F00,it,vegetaz,F00,formazione arbustiva termoxerofila,formazione arbustiva termoxerofila,https://inspire.ec.europa.eu/registry/status/valid
+F01,it,vegetaz,F01,macchia mediterranea,macchia mediterranea,https://inspire.ec.europa.eu/registry/status/valid
+F02,it,vegetaz,F02,stadio più o meno aperto di bassi arbusti,stadio più o meno aperto di bassi arbusti,https://inspire.ec.europa.eu/registry/status/valid
+F03,it,vegetaz,F03,ericeto,ericeto,https://inspire.ec.europa.eu/registry/status/valid
+F04,it,vegetaz,F04,"ginestreto (Genista, Ulex)","ginestreto (Genista, Ulex)",https://inspire.ec.europa.eu/registry/status/valid
+G00,it,vegetaz,G00,formazione arbustiva mesotermofila,formazione arbustiva mesotermofila,https://inspire.ec.europa.eu/registry/status/valid
+G01,it,vegetaz,G01,corileto,corileto,https://inspire.ec.europa.eu/registry/status/valid
+G02,it,vegetaz,G02,ginestreto a Cytisus scoparius,ginestreto a Cytisus scoparius,https://inspire.ec.europa.eu/registry/status/valid
+G03,it,vegetaz,G03,calluneto,calluneto,https://inspire.ec.europa.eu/registry/status/valid
+G04,it,vegetaz,G04,roveto,roveto,https://inspire.ec.europa.eu/registry/status/valid
+G05,it,vegetaz,G05,felceto,felceto,https://inspire.ec.europa.eu/registry/status/valid
+G06,it,vegetaz,G06,misto,misto,https://inspire.ec.europa.eu/registry/status/valid
+H00,it,vegetaz,H00,formazione arbustiva microtermica,formazione arbustiva microtermica,https://inspire.ec.europa.eu/registry/status/valid
+H01,it,vegetaz,H01,ontaneto,ontaneto,https://inspire.ec.europa.eu/registry/status/valid
+H02,it,vegetaz,H02,rodoreto,rodoreto,https://inspire.ec.europa.eu/registry/status/valid
+H03,it,vegetaz,H03,vaccinieto,vaccinieto,https://inspire.ec.europa.eu/registry/status/valid
+H04,it,vegetaz,H04,mugo-ericeto,mugo-ericeto,https://inspire.ec.europa.eu/registry/status/valid
+H05,it,vegetaz,H05,formazione di arbusti prostrati,formazione di arbusti prostrati,https://inspire.ec.europa.eu/registry/status/valid
+I00,it,vegetaz,I00,formazione erbacea,formazione erbacea,https://inspire.ec.europa.eu/registry/status/valid
+I01,it,vegetaz,I01,formazione erbacea infestante dei coltivi abbandonati,formazione erbacea infestante dei coltivi abbandonati,https://inspire.ec.europa.eu/registry/status/valid
+I02,it,vegetaz,I02,prateria mediterranea,prateria mediterranea,https://inspire.ec.europa.eu/registry/status/valid
+I03,it,vegetaz,I03,prateria montana,prateria montana,https://inspire.ec.europa.eu/registry/status/valid
+I04,it,vegetaz,I04,formazione erbacea pioniera su detrito,formazione erbacea pioniera su detrito,https://inspire.ec.europa.eu/registry/status/valid
+I05,it,vegetaz,I05,formazione erbacea pioniera su greto fluviale,formazione erbacea pioniera su greto fluviale,https://inspire.ec.europa.eu/registry/status/valid
+I06,it,vegetaz,I06,prateria pioniera di altitudine,prateria pioniera di altitudine,https://inspire.ec.europa.eu/registry/status/valid
+I07,it,vegetaz,I07,formazione erbacea nitrofila e ruderale,formazione erbacea nitrofila e ruderale,https://inspire.ec.europa.eu/registry/status/valid
+I08,it,vegetaz,I08,erbe e suffrutici alofiti costieri,erbe e suffrutici alofiti costieri,https://inspire.ec.europa.eu/registry/status/valid
+I09,it,vegetaz,I09,erbe acquatiche e palustri,erbe acquatiche e palustri,https://inspire.ec.europa.eu/registry/status/valid
+0,en,vegetaz,0,unknown,unknown,https://inspire.ec.europa.eu/registry/status/valid
+A00,en,vegetaz,A00,broadleaved evergreen formation,broadleaved evergreen formation,https://inspire.ec.europa.eu/registry/status/valid
+A01,en,vegetaz,A01,ilex grove,ilex grove,https://inspire.ec.europa.eu/registry/status/valid
+A02,en,vegetaz,A02,predominance of ilex grove with evergreens,predominance of ilex grove with evergreens,https://inspire.ec.europa.eu/registry/status/valid
+A03,en,vegetaz,A03,predominance of ilex grove with deciduous,predominance of ilex grove with deciduous,https://inspire.ec.europa.eu/registry/status/valid
+A04,en,vegetaz,A04,predominance of coark trees,predominance of coark trees,https://inspire.ec.europa.eu/registry/status/valid
+A05,en,vegetaz,A05,predominance of secondary evergreen,predominance of secondary evergreen,https://inspire.ec.europa.eu/registry/status/valid
+A06,en,vegetaz,A06,mixed just evergreen,mixed just evergreen,https://inspire.ec.europa.eu/registry/status/valid
+A07,en,vegetaz,A07,mixed with deciduous,mixed with deciduous,https://inspire.ec.europa.eu/registry/status/valid
+A08,en,vegetaz,A08,eucaliptus plantation,eucaliptus plantation,https://inspire.ec.europa.eu/registry/status/valid
+B00,en,vegetaz,B00,formation of broadleaves (winter rest),formation of broadleaves (winter rest),https://inspire.ec.europa.eu/registry/status/valid
+B01,en,vegetaz,B01,predominance of bay oak,predominance of bay oak,https://inspire.ec.europa.eu/registry/status/valid
+B02,en,vegetaz,B02,predominance of turkey oak,predominance of turkey oak,https://inspire.ec.europa.eu/registry/status/valid
+B03,en,vegetaz,B03,predominance of british oak,predominance of british oak,https://inspire.ec.europa.eu/registry/status/valid
+B04,en,vegetaz,B04,predominance of durmast,predominance of durmast,https://inspire.ec.europa.eu/registry/status/valid
+B05,en,vegetaz,B05,predominance of fraineto oak,predominance of fraineto oak,https://inspire.ec.europa.eu/registry/status/valid
+B06,en,vegetaz,B06,predominance of robinia,predominance of robinia,https://inspire.ec.europa.eu/registry/status/valid
+B07,en,vegetaz,B07,predominance of elm,predominance of elm,https://inspire.ec.europa.eu/registry/status/valid
+B08,en,vegetaz,B08,predominance of poplar,predominance of poplar,https://inspire.ec.europa.eu/registry/status/valid
+B09,en,vegetaz,B09,predominance of chestnut tree,predominance of chestnut tree,https://inspire.ec.europa.eu/registry/status/valid
+B10,en,vegetaz,B10,predominance of ash tree and black hornbeam,predominance of ash tree and black hornbeam,https://inspire.ec.europa.eu/registry/status/valid
+B11,en,vegetaz,B11,predominance of white hornbeam,predominance of white hornbeam,https://inspire.ec.europa.eu/registry/status/valid
+B12,en,vegetaz,B12,predominance of beech,predominance of beech,https://inspire.ec.europa.eu/registry/status/valid
+B13,en,vegetaz,B13,beech wood,beech wood,https://inspire.ec.europa.eu/registry/status/valid
+B14,en,vegetaz,B14,beech wood fir wood,beech wood fir wood,https://inspire.ec.europa.eu/registry/status/valid
+B15,en,vegetaz,B15,mixed just deciduous,mixed just deciduous,https://inspire.ec.europa.eu/registry/status/valid
+B16,en,vegetaz,B16,mixed with broadleaved evergreen,mixed with broadleaved evergreen,https://inspire.ec.europa.eu/registry/status/valid
+B17,en,vegetaz,B17,mixed with coniferous,mixed with coniferous,https://inspire.ec.europa.eu/registry/status/valid
+B18,en,vegetaz,B18,predominance of neapolitan alden,predominance of neapolitan alden,https://inspire.ec.europa.eu/registry/status/valid
+C00,en,vegetaz,C00,hygrophilous broadleaved formations,hygrophilous broadleaved formations,https://inspire.ec.europa.eu/registry/status/valid
+C01,en,vegetaz,C01,willow grove,willow grove,https://inspire.ec.europa.eu/registry/status/valid
+C02,en,vegetaz,C02,poplar willow grove,poplar willow grove,https://inspire.ec.europa.eu/registry/status/valid
+C03,en,vegetaz,C03,alder carr,alder carr,https://inspire.ec.europa.eu/registry/status/valid
+C04,en,vegetaz,C04,narrow leaved ash tree formation,narrow leaved ash tree formation,https://inspire.ec.europa.eu/registry/status/valid
+D00,en,vegetaz,D00,needle leaved thermophile formation,needle leaved thermophile formation,https://inspire.ec.europa.eu/registry/status/valid
+D01,en,vegetaz,D01,domestic pine,domestic pine,https://inspire.ec.europa.eu/registry/status/valid
+D02,en,vegetaz,D02,pine halepensis,pine halepensis,https://inspire.ec.europa.eu/registry/status/valid
+D03,en,vegetaz,D03,predominance of pinaster,predominance of pinaster,https://inspire.ec.europa.eu/registry/status/valid
+D04,en,vegetaz,D04,cypress grove,cypress grove,https://inspire.ec.europa.eu/registry/status/valid
+D05,en,vegetaz,D05,mixed with broadleaved evergreen,mixed with broadleaved evergreen,https://inspire.ec.europa.eu/registry/status/valid
+D06,en,vegetaz,D06,mixed with broadleaved deciduous,mixed with broadleaved deciduous,https://inspire.ec.europa.eu/registry/status/valid
+D07,en,vegetaz,D07,pine radiata,pine radiata,https://inspire.ec.europa.eu/registry/status/valid
+E00,en,vegetaz,E00,meso and microthermic narrow leaved formation,meso and microthermic narrow leaved formation,https://inspire.ec.europa.eu/registry/status/valid
+E01,en,vegetaz,E01,scotch fir,scotch fir,https://inspire.ec.europa.eu/registry/status/valid
+E02,en,vegetaz,E02,black pine,black pine,https://inspire.ec.europa.eu/registry/status/valid
+E03,en,vegetaz,E03,pine laricio,pine laricio,https://inspire.ec.europa.eu/registry/status/valid
+E04,en,vegetaz,E04,pine brutia,pine brutia,https://inspire.ec.europa.eu/registry/status/valid
+E05,en,vegetaz,E05,fir wood,fir wood,https://inspire.ec.europa.eu/registry/status/valid
+E06,en,vegetaz,E06,douglasia plantation,douglasia plantation,https://inspire.ec.europa.eu/registry/status/valid
+E07,en,vegetaz,E07,peccete,peccete,https://inspire.ec.europa.eu/registry/status/valid
+E08,en,vegetaz,E08,larch,larch,https://inspire.ec.europa.eu/registry/status/valid
+E09,en,vegetaz,E09,closed shrub formation,closed shrub formation,https://inspire.ec.europa.eu/registry/status/valid
+F00,en,vegetaz,F00,thermoxeropile shrub formation,thermoxeropile shrub formation,https://inspire.ec.europa.eu/registry/status/valid
+F01,en,vegetaz,F01,mediterranean bush,mediterranean bush,https://inspire.ec.europa.eu/registry/status/valid
+F02,en,vegetaz,F02,low shrubs (open to close phase),low shrubs (open to close phase),https://inspire.ec.europa.eu/registry/status/valid
+F03,en,vegetaz,F03,heather,heather,https://inspire.ec.europa.eu/registry/status/valid
+F04,en,vegetaz,F04,broom (genista. ulex),broom (genista. ulex),https://inspire.ec.europa.eu/registry/status/valid
+G00,en,vegetaz,G00,mesothermophile arbustive formation,mesothermophile arbustive formation,https://inspire.ec.europa.eu/registry/status/valid
+G01,en,vegetaz,G01,corilus avellana,corilus avellana,https://inspire.ec.europa.eu/registry/status/valid
+G02,en,vegetaz,G02,broom (cytisus scoparius),broom (cytisus scoparius),https://inspire.ec.europa.eu/registry/status/valid
+G03,en,vegetaz,G03,calluna vulgaris,calluna vulgaris,https://inspire.ec.europa.eu/registry/status/valid
+G04,en,vegetaz,G04,brier,brier,https://inspire.ec.europa.eu/registry/status/valid
+G05,en,vegetaz,G05,fernery,fernery,https://inspire.ec.europa.eu/registry/status/valid
+G06,en,vegetaz,G06,mixed,mixed,https://inspire.ec.europa.eu/registry/status/valid
+H00,en,vegetaz,H00,microthermic arbustive formation,microthermic arbustive formation,https://inspire.ec.europa.eu/registry/status/valid
+H01,en,vegetaz,H01,alder carr,alder carr,https://inspire.ec.europa.eu/registry/status/valid
+H02,en,vegetaz,H02,rhododendron,rhododendron,https://inspire.ec.europa.eu/registry/status/valid
+H03,en,vegetaz,H03,huckleberry,huckleberry,https://inspire.ec.europa.eu/registry/status/valid
+H04,en,vegetaz,H04,mugo-helter,mugo-helter,https://inspire.ec.europa.eu/registry/status/valid
+H05,en,vegetaz,H05,prostrate shrubs formations,prostrate shrubs formations,https://inspire.ec.europa.eu/registry/status/valid
+I00,en,vegetaz,I00,herbaceous formation,herbaceous formation,https://inspire.ec.europa.eu/registry/status/valid
+I01,en,vegetaz,I01,herbaceous formation infesting abandoned cultivations,herbaceous formation infesting abandoned cultivations,https://inspire.ec.europa.eu/registry/status/valid
+I02,en,vegetaz,I02,mediterranean grassland,mediterranean grassland,https://inspire.ec.europa.eu/registry/status/valid
+I03,en,vegetaz,I03,mountain grassland,mountain grassland,https://inspire.ec.europa.eu/registry/status/valid
+I04,en,vegetaz,I04,pioneer herbaceous formations on detritus,pioneer herbaceous formations on detritus,https://inspire.ec.europa.eu/registry/status/valid
+I05,en,vegetaz,I05,pioneer herbaceous formations on river bed,pioneer herbaceous formations on river bed,https://inspire.ec.europa.eu/registry/status/valid
+I06,en,vegetaz,I06,high altitude pioneer grassland,high altitude pioneer grassland,https://inspire.ec.europa.eu/registry/status/valid
+I07,en,vegetaz,I07,ruderal and nitrophile herbaceous formation,ruderal and nitrophile herbaceous formation,https://inspire.ec.europa.eu/registry/status/valid
+I08,en,vegetaz,I08,coastal halophite grasses and undershrub,coastal halophite grasses and undershrub,https://inspire.ec.europa.eu/registry/status/valid
+I09,en,vegetaz,I09,marsh and aquatic grass,marsh and aquatic grass,https://inspire.ec.europa.eu/registry/status/valid

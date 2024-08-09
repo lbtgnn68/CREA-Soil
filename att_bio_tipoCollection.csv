@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+att_bio_tipo,it,"Attivit… biologica, tipo","Attivit… biologica, Tipo","4.4.17 Attivit… biologica, Tipo - Tabella 4.78, p. 215. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/biologicalFeaturesValueCode
+att_bio_tipo,en,"Biological Activity, Type","Biological Activity, Type","4.4.17 Biological Activity, Type - Table 4.78, p. 215. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/biologicalFeaturesValueCode

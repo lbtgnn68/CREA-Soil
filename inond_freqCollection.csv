@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+inond_freq,it,"Inondazione, Frequenza dell'inondazione",Frequenza dell'inondazione,"4.5.2 Rischio di inondazione, Frequenza - Tabella 4.88, p. 223. https://doi.org/10.5281/zenodo.7589089",https://agroportal.lirmm.fr/ontologies/INRAETHES/c_4656
+inond_freq,en,Flooding frequency class,Flooding - frequency class,"4.5.2 Flood Risk, Frequency - Table 4.88, p. 223. https://doi.org/10.5281/zenodo.7589089",https://agroportal.lirmm.fr/ontologies/INRAETHES/c_4657

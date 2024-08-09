@@ -1,0 +1,13 @@
+localid,Language,collection,label,description ,definition,status
+20,it,screz_quanti,20,molto scarse (<2%),molto scarse (<2%),https://inspire.ec.europa.eu/registry/status/valid
+50,it,screz_quanti,50,scarse (2-5%),scarse (2-5%),https://inspire.ec.europa.eu/registry/status/valid
+150,it,screz_quanti,150,comuni (2-15%),comuni (2-15%),https://inspire.ec.europa.eu/registry/status/valid
+300,it,screz_quanti,300,molte (15-30%),molte (15-30%),https://inspire.ec.europa.eu/registry/status/valid
+500,it,screz_quanti,500,abbondanti (30-50%),abbondanti (30-50%),https://inspire.ec.europa.eu/registry/status/valid
+1000,it,screz_quanti,1000,dominanti (>50%),dominanti (>50%),https://inspire.ec.europa.eu/registry/status/valid
+20,en,screz_quanti,20,very few (<2%),very few (<2%),https://inspire.ec.europa.eu/registry/status/valid
+50,en,screz_quanti,50,few (2-5%),few (2-5%),https://inspire.ec.europa.eu/registry/status/valid
+150,en,screz_quanti,150,common (5-15%),common (5-15%),https://inspire.ec.europa.eu/registry/status/valid
+300,en,screz_quanti,300,many (15-30%),many (15-30%),https://inspire.ec.europa.eu/registry/status/valid
+500,en,screz_quanti,500,abundant (30-50%),abundant (30-50%),https://inspire.ec.europa.eu/registry/status/valid
+1000,en,screz_quanti,1000,dominant (>50%),dominant (>50%),https://inspire.ec.europa.eu/registry/status/valid

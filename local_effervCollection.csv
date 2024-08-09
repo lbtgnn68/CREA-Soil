@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+local_efferv,it,"Effervescenza, localizzazione",Localizzazione dell'effervescenza all'Hcl,"4.4.18 Effervescenza all?HCl, Localizzazione - Tabella 4.81, p. 218. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CarbonatesFormsValueCode
+local_efferv,en,"Effervescence, Localization",Carbonate reaction in the soil matrix - location class,"4.4.18 Effervescence with HCl, Localization - Table 4.81, p. 218. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CarbonatesFormsValueCode

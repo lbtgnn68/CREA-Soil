@@ -1,0 +1,7 @@
+localid,Language,collection,label,description ,definition,status
+50,it,screz_dim,50,piccole (,piccole (,https://inspire.ec.europa.eu/registry/status/valid
+150,it,screz_dim,150,medie (5-15 mm),medie (5-15 mm),https://inspire.ec.europa.eu/registry/status/valid
+9999,it,screz_dim,9999,grossolane (>15 mm),grossolane (>15 mm),https://inspire.ec.europa.eu/registry/status/valid
+50,en,screz_dim,50,fine (,fine (,https://inspire.ec.europa.eu/registry/status/valid
+150,en,screz_dim,150,medium (5-15 mm),medium (5-15 mm),https://inspire.ec.europa.eu/registry/status/valid
+9999,en,screz_dim,9999,coarse (>15 mm),coarse (>15 mm),https://inspire.ec.europa.eu/registry/status/valid

@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+conc_dim,it,"Concentrazioni, dimensioni","Concentrazioni, Dimensioni","4.4.12 Concentrazioni, Dimensioni - Tabella 4.64, p. 209. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/MineralConcSizeValueCode
+conc_dim,en,"Concentrations, Size","Concentrations, Size","4.4.12 Concentrations, Size - Table 4.64, p. 209. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/MineralConcSizeValueCode

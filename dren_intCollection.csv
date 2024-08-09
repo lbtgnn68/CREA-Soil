@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+dren_int,it,Drenaggio interno,Drenaggio interno,"4.5.8 Drenaggio interno - Tabella 4.97, p. 228. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/52082
+dren_int,en,Infiltration,Infiltration rate - class,"4.5.8 Internal Drainage - Table 4.97, p. 228. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/52083

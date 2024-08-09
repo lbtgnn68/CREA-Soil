@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+radici_medie_quant,it,"Radici medie, quantit…",Radici. Quantit… delle radici da medie a molto grossolane,"4.4.16 Radici. Quantit… delle radici da medie a molto grossolane - Tabella 4.76, p. 214. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/RootsAbundanceValueCode
+radici_medie_quant,en,"Average Roots, Quantity","Roots, Quantity of Average to Very Coarse Roots","4.4.16 Roots, Quantity of Average to Very Coarse Roots - Table 4.76, p. 214. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/RootsAbundanceValueCode

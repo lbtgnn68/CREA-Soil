@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+schel_forma,it,"Scheletro, forma","Frammenti grossolani, Forma","4.4.7 Frammenti grossolani, Forma - Tabella 4.51, p. 196. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/RockShapeValueCode
+schel_forma,en,"Coarse Fragments, Shape","Coarse Fragments, Shape","4.4.7 Coarse Fragments, Shape - Table 4.51, p. 196. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/RockShapeValueCode

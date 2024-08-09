@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+col_hue,it,Colore Munsell - Hue,Colore principale della matrice  (Munsell - Hue),"4.4.4 Colore della massa, p. 188. https://doi.org/10.5281/zenodo.7589089; https://munsell.com/about-munsell-color/how-color-notation-works/munsell-hue/",https://agroportal.lirmm.fr/ontologies/PATO/PATO_0000015
+col_hue,en,Munsell Soil Color Hue,Mass ColorMunsell Soil Color - Hue,"4.4.4 Mass Color, p. 188. https://doi.org/10.5281/zenodo.7589089; https://munsell.com/about-munsell-color/how-color-notation-works/munsell-hue/",https://agroportal.lirmm.fr/ontologies/PATO/PATO_0000015

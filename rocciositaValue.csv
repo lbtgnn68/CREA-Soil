@@ -1,0 +1,11 @@
+localid,Language,collection,label,description ,definition,status
+20,it,rocciosita,20,scarsamente roccioso (<2%),scarsamente roccioso (<2%),https://inspire.ec.europa.eu/registry/status/valid
+100,it,rocciosita,100,roccioso (2-10%),roccioso (2-10%),https://inspire.ec.europa.eu/registry/status/valid
+250,it,rocciosita,250,molto roccioso (10-25%),molto roccioso (10-25%),https://inspire.ec.europa.eu/registry/status/valid
+900,it,rocciosita,900,estremamente roccioso (25-90%),estremamente roccioso (25-90%),https://inspire.ec.europa.eu/registry/status/valid
+1000,it,rocciosita,1000,roccia affiorante (>90%),roccia affiorante (>90%),https://inspire.ec.europa.eu/registry/status/valid
+20,en,rocciosita,20,scarcely rocky <2%,scarcely rocky <2%,https://inspire.ec.europa.eu/registry/status/valid
+100,en,rocciosita,100,rocky 2-10%,rocky 2-10%,https://inspire.ec.europa.eu/registry/status/valid
+250,en,rocciosita,250,very rocky 10-25%,very rocky 10-25%,https://inspire.ec.europa.eu/registry/status/valid
+900,en,rocciosita,900,extremely rocky 25-90%,extremely rocky 25-90%,https://inspire.ec.europa.eu/registry/status/valid
+1000,en,rocciosita,1000,rocks outcrop >90%,rocks outcrop >90%,https://inspire.ec.europa.eu/registry/status/valid

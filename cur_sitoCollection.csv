@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+cur_sito,it,"Morfometria, Curvatura",Curvatura del sito,"4.3.1 Morfometria e fisiografia, Morfometria (curvatura del sito) - Figura 4.5, p. 154. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/slopeFormValueCode
+cur_sito,en,Site Curvature,"Morphometry and Physiography, Morphometry (Site Curvature)","4.3.1 Morphometry and Physiography, Morphometry (Site Curvature) - Figure 4.5, p. 154. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/slopeFormValueCode

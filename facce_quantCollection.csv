@@ -1,0 +1,3 @@
+localid,Language,label,description,definition
+facce_quant,it,"Facce, abbondanza","Facce di pressione e scorrimento, Abbondanza","4.4.15 Facce di pressione e scorrimento, Abbondanza - Tabella 4.74, p. 213. https://doi.org/10.5281/zenodo.7589089"
+facce_quant,en,"Faces, Abundance","Pressure and Shear Faces, Abundance","4.4.15 Pressure and Shear Faces, Abundance - Table 4.74, p. 213. https://doi.org/10.5281/zenodo.7589089"

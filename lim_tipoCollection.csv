@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+lim_tipo,it,"Limite, tipo",Tipo di limite tra gli orizzonti,"4.4.1 Profondit…, spessore e limite inferiore, Tipo - Tabella 4.35, p. 186. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/BoundaryClassificationValueCode
+lim_tipo,en,Horizon boundary - distinctness,Horizon boundary - distinctness,"4.4.1 Depth, Thickness and Lower Limit, Type - Table 4.35, p. 186. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/BoundaryClassificationValueCode

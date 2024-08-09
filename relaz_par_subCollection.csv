@@ -1,0 +1,3 @@
+localid,Language,label,description,definition
+relaz_par_sub,it,"Materiale genitore, Relazioni","Descrizione del parent material (materiale genitore), Relazioni fra materiale genitore e substrato","4.3.2 Descrizione del parent material (materiale genitore), Relazioni fra materiale genitore e substrato - Tabella 4.24, p. 172. https://doi.org/10.5281/zenodo.7589089"
+relaz_par_sub,en,"Parent Material, Relations",Relations between Parent Material and Substrate,"4.3.2 Parent Material Description, Relations between Parent Material and Substrate - Table 4.24, p. 172. https://doi.org/10.5281/zenodo.7589089"

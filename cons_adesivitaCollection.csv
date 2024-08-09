@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+cons_adesivita,it,Adesivit…,Adesivit…,"4.4.9 Adesivit… - Tabella 4.53, p. 199. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/StickinessValueCode
+cons_adesivita,en,Stickiness,Soil Stickiness,"4.4.9 Stickiness - Table 4.53, p. 199. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/StickinessValueCode

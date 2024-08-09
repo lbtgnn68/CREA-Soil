@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+substrato,it,Substrato,Litotipo (materiale consolidato) o Origine (materiale non consolidato),"4.3.2 Geologia, Substrato - Tabella 4.14, p. 163. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/LithologyValueCode
+substrato,en,LithologyValue,Lithotype (Consolidated Material) or Origin (Unconsolidated Material),"4.3.2 Geology, Substrate - Table 4.14, p. 163. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/LithologyValueCode

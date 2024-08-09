@@ -1,0 +1,17 @@
+localid,Language,collection,label,description ,definition,status
+LIT,it,screz_loc,LIT,(screziature duvute a litocromie),(screziature duvute a litocromie),https://inspire.ec.europa.eu/registry/status/valid
+OCF,it,screz_loc,OCF,masse intorno a pori o strutture organiche con arricchimento di ferro,masse intorno a pori o strutture organiche con arricchimento di ferro,https://inspire.ec.europa.eu/registry/status/valid
+OCI,it,screz_loc,OCI,masse intorno a pori o strutture organiche con impoverimento di ferro,masse intorno a pori o strutture organiche con impoverimento di ferro,https://inspire.ec.europa.eu/registry/status/valid
+OFF,it,screz_loc,OFF,facce di aggregati con arricchimento di ferro,facce di aggregati con arricchimento di ferro,https://inspire.ec.europa.eu/registry/status/valid
+OFI,it,screz_loc,OFI,facce di aggregati con impoverimento di ferro,facce di aggregati con impoverimento di ferro,https://inspire.ec.europa.eu/registry/status/valid
+OMF,it,screz_loc,OMF,masse arricchite di ferro,masse arricchite di ferro,https://inspire.ec.europa.eu/registry/status/valid
+OMI,it,screz_loc,OMI,masse impoverite di ferro e presenza di aree con arric.di ferro e manganese,masse impoverite di ferro e presenza di aree con arric.di ferro e manganese,https://inspire.ec.europa.eu/registry/status/valid
+OMR,it,screz_loc,OMR,masse ridotte o impoverite in assenza di aree con arric.di ferro o manganese,masse ridotte o impoverite in assenza di aree con arric.di ferro o manganese,https://inspire.ec.europa.eu/registry/status/valid
+LIT,en,screz_loc,LIT,lithochromic mottles,lithochromic mottles,https://inspire.ec.europa.eu/registry/status/valid
+OCF,en,screz_loc,OCF,masses around pores or organic structures rich in Fe,masses around pores or organic structures rich in Fe,https://inspire.ec.europa.eu/registry/status/valid
+OCI,en,screz_loc,OCI,masses around pores or organic structures poor in Fe,masses around pores or organic structures poor in Fe,https://inspire.ec.europa.eu/registry/status/valid
+OFF,en,screz_loc,OFF,faces of aggregates rich in Fe,faces of aggregates rich in Fe,https://inspire.ec.europa.eu/registry/status/valid
+OFI,en,screz_loc,OFI,faces of aggregates poor in Fe,faces of aggregates poor in Fe,https://inspire.ec.europa.eu/registry/status/valid
+OMF,en,screz_loc,OMF,masses rich in Fe,masses rich in Fe,https://inspire.ec.europa.eu/registry/status/valid
+OMI,en,screz_loc,OMI,masses poor in Fe and areas with visible Fe and Mn,masses poor in Fe and areas with visible Fe and Mn,https://inspire.ec.europa.eu/registry/status/valid
+OMR,en,screz_loc,OMR,masses in redox conditions. or impoverished. with no areas with visible Fe or Mn,masses in redox conditions. or impoverished. with no areas with visible Fe or Mn,https://inspire.ec.europa.eu/registry/status/valid

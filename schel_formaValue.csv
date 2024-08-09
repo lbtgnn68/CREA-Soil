@@ -1,0 +1,11 @@
+localid,Language,collection,label,description ,definition,status
+1,it,schel_forma,1,arrotondato,arrotondato,https://inspire.ec.europa.eu/registry/status/valid
+2,it,schel_forma,2,subarrotondato,subarrotondato,https://inspire.ec.europa.eu/registry/status/valid
+3,it,schel_forma,3,angolare,angolare,https://inspire.ec.europa.eu/registry/status/valid
+4,it,schel_forma,4,irregolare,irregolare,https://inspire.ec.europa.eu/registry/status/valid
+5,it,schel_forma,5,piatto,piatto,https://inspire.ec.europa.eu/registry/status/valid
+1,en,schel_forma,1,rounded,rounded,https://inspire.ec.europa.eu/registry/status/valid
+2,en,schel_forma,2,subrounded,subrounded,https://inspire.ec.europa.eu/registry/status/valid
+3,en,schel_forma,3,angular,angular,https://inspire.ec.europa.eu/registry/status/valid
+4,en,schel_forma,4,irregular,irregular,https://inspire.ec.europa.eu/registry/status/valid
+5,en,schel_forma,5,flat,flat,https://inspire.ec.europa.eu/registry/status/valid

@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+att_bio_quant,it,"Attivit… biologica, quantit…","Attivit… biologica, Quantit…","4.4.17 Attivit… biologica, Quantit… - Tabella 4.79, p. 217. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/BiologicalAbundanceValueCode
+att_bio_quant,en,"Biological Activity, Quantity","Biological Activity, Quantity","4.4.17 Biological Activity, Quantity - Table 4.79, p. 217. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/BiologicalAbundanceValueCode

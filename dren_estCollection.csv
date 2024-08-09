@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+dren_est,it,Drenaggio esterno,Scorrimento superficiale (RUN OFF),"4.5.3 Scorrimento superficiale (runoff) - Tabella 4.90, p. 224. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/5471
+dren_est,en,Runoff,Surface Runoff,"4.5.3 Surface Runoff - Table 4.90, p. 224. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/5471

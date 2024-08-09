@@ -1,0 +1,3 @@
+localid,Language,label,description,definition
+falda_durat,it,"Falda, durata","Falda superficiale, Durata annuale cumulativa","4.5.1 Falda superficiale, Durata annuale cumulativa - Tabella 4.87, p. 221. https://doi.org/10.5281/zenodo.7589089"
+falda_durat,en,"Groundwater, Duration","Groundwater, Duration","4.5.1 Groundwater, Cumulative Annual Duration - Table 4.87, p. 221. https://doi.org/10.5281/zenodo.7589089"

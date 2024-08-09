@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+litol_alter,it,Stato di alterazione,Stato di alterazione del substrato,"4.3.2 Geologia, Stato di alterazione - Tabella 4.17, p. 168. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/WeatheringValueCode
+litol_alter,en,Weathering State,Weathering State,"4.3.2 Geology, Weathering State - Table 4.17, p. 168. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/WeatheringValueCode

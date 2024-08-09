@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+eros_area,it,"Erosione, Area",Area interessata dall'erosione,"4.3.1 Erosione e deposizione. Classi di area interessata da erosione - Tabella 4.12, p. 161. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/ErosionTotalAreaAffectedValueCode
+eros_area,en,"Erosion, Area",Erosion and Deposition. Erosion Area Classes,"4.3.1 Erosion and Deposition. Erosion Area Classes - Table 4.12, p. 161. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/ErosionTotalAreaAffectedValueCode

@@ -1,0 +1,7 @@
+localid,Language,collection,label,description ,definition,status
+1,it,schel_alt,1,non alterato,non alterato,https://inspire.ec.europa.eu/registry/status/valid
+2,it,schel_alt,2,alterato,alterato,https://inspire.ec.europa.eu/registry/status/valid
+3,it,schel_alt,3,molto alterato,molto alterato,https://inspire.ec.europa.eu/registry/status/valid
+1,en,schel_alt,1,not weathered,not weathered,https://inspire.ec.europa.eu/registry/status/valid
+2,en,schel_alt,2,weathered,weathered,https://inspire.ec.europa.eu/registry/status/valid
+3,en,schel_alt,3,strongly weathered,strongly weathered,https://inspire.ec.europa.eu/registry/status/valid

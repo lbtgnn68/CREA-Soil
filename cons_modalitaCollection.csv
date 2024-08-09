@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+cons_modalita,it,Consistenza,Consistenza,"4.4.9 Consistenza, p. 198. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/consistenceMoistValueCode
+cons_modalita,en,Consistency,Soil Consistency,"4.4.9 Consistency, p. 198. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/consistenceMoistValueCode

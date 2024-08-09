@@ -1,0 +1,3 @@
+localid,Language,label,description,definition
+stato_suolo,it,Aspetti superficiali,Aspetti superficiali dello stato del suolo,"4.3.4 Caratteri di superficie, Aspetti superficiali, Stato del suolo - Tabella 4.28, p. 179. https://doi.org/10.5281/zenodo.7589089"
+stato_suolo,en,Surface Features,"Surface Features, Surface Aspects, Soil Condition","4.3.4 Surface Features, Surface Aspects, Soil Condition - Table 4.28, p. 179. https://doi.org/10.5281/zenodo.7589089"

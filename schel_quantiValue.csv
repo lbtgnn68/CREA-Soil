@@ -1,0 +1,15 @@
+localid,Language,collection,label,description ,definition,status
+0,it,schel_quanti,0,assente,assente,https://inspire.ec.europa.eu/registry/status/valid
+5,it,schel_quanti,5,scarso (<5%),scarso (<5%),https://inspire.ec.europa.eu/registry/status/valid
+50,it,schel_quanti,50,scarso (<5%),scarso (<5%),https://inspire.ec.europa.eu/registry/status/valid
+150,it,schel_quanti,150,comune (5-15%),comune (5-15%),https://inspire.ec.europa.eu/registry/status/valid
+350,it,schel_quanti,350,frequente (15-35%),frequente (15-35%),https://inspire.ec.europa.eu/registry/status/valid
+700,it,schel_quanti,700,abbondante (35-70%),abbondante (35-70%),https://inspire.ec.europa.eu/registry/status/valid
+1000,it,schel_quanti,1000,molto abbondante (>70%),molto abbondante (>70%),https://inspire.ec.europa.eu/registry/status/valid
+0,en,schel_quanti,0,absent,absent,https://inspire.ec.europa.eu/registry/status/valid
+5,en,schel_quanti,5,scarce (<5%),scarce (<5%),https://inspire.ec.europa.eu/registry/status/valid
+50,en,schel_quanti,50,scarce (<5%),scarce (<5%),https://inspire.ec.europa.eu/registry/status/valid
+150,en,schel_quanti,150,common (5-15%),common (5-15%),https://inspire.ec.europa.eu/registry/status/valid
+350,en,schel_quanti,350,frequent (15-35%),frequent (15-35%),https://inspire.ec.europa.eu/registry/status/valid
+700,en,schel_quanti,700,abundant (35-70%),abundant (35-70%),https://inspire.ec.europa.eu/registry/status/valid
+1000,en,schel_quanti,1000,very abundant (>70%),very abundant (>70%),https://inspire.ec.europa.eu/registry/status/valid

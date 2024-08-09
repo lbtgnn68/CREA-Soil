@@ -1,0 +1,49 @@
+localid,Language,collection,label,description ,definition,status
+A,it,usda_cl_tess,A,argilla,argilla,https://inspire.ec.europa.eu/registry/status/valid
+AL,it,usda_cl_tess,AL,argilla limosa,argilla limosa,https://inspire.ec.europa.eu/registry/status/valid
+AS,it,usda_cl_tess,AS,argilla sabbiosa,argilla sabbiosa,https://inspire.ec.europa.eu/registry/status/valid
+F,it,usda_cl_tess,F,franca,franca,https://inspire.ec.europa.eu/registry/status/valid
+FA,it,usda_cl_tess,FA,franco argillosa,franco argillosa,https://inspire.ec.europa.eu/registry/status/valid
+FL,it,usda_cl_tess,FL,franco limosa,franco limosa,https://inspire.ec.europa.eu/registry/status/valid
+FLA,it,usda_cl_tess,FLA,franco limoso argillosa,franco limoso argillosa,https://inspire.ec.europa.eu/registry/status/valid
+FS,it,usda_cl_tess,FS,franco sabbiosa,franco sabbiosa,https://inspire.ec.europa.eu/registry/status/valid
+FSA,it,usda_cl_tess,FSA,franco sabbioso argillosa,franco sabbioso argillosa,https://inspire.ec.europa.eu/registry/status/valid
+FSF,it,usda_cl_tess,FSF,franco sabbiosa fine,franco sabbiosa fine,https://inspire.ec.europa.eu/registry/status/valid
+FSG,it,usda_cl_tess,FSG,franco sabbiosa grossolana,franco sabbiosa grossolana,https://inspire.ec.europa.eu/registry/status/valid
+FSM,it,usda_cl_tess,FSM,franco sabbiosa,franco sabbiosa,https://inspire.ec.europa.eu/registry/status/valid
+FSV,it,usda_cl_tess,FSV,franco sabbiosa molto fine,franco sabbiosa molto fine,https://inspire.ec.europa.eu/registry/status/valid
+L,it,usda_cl_tess,L,limo,limo,https://inspire.ec.europa.eu/registry/status/valid
+S,it,usda_cl_tess,S,sabbie,sabbie,https://inspire.ec.europa.eu/registry/status/valid
+SAF,it,usda_cl_tess,SAF,sabbia fine,sabbia fine,https://inspire.ec.europa.eu/registry/status/valid
+SAG,it,usda_cl_tess,SAG,sabbia grossolana,sabbia grossolana,https://inspire.ec.europa.eu/registry/status/valid
+SAM,it,usda_cl_tess,SAM,sabbia,sabbia,https://inspire.ec.europa.eu/registry/status/valid
+SAV,it,usda_cl_tess,SAV,sabbia molto fine,sabbia molto fine,https://inspire.ec.europa.eu/registry/status/valid
+SF,it,usda_cl_tess,SF,sabbie franche,sabbie franche,https://inspire.ec.europa.eu/registry/status/valid
+SFF,it,usda_cl_tess,SFF,sabbia franca fine,sabbia franca fine,https://inspire.ec.europa.eu/registry/status/valid
+SFG,it,usda_cl_tess,SFG,sabbia franca grossolana,sabbia franca grossolana,https://inspire.ec.europa.eu/registry/status/valid
+SFM,it,usda_cl_tess,SFM,sabbia franca,sabbia franca,https://inspire.ec.europa.eu/registry/status/valid
+SFV,it,usda_cl_tess,SFV,sabbia franca molto fine,sabbia franca molto fine,https://inspire.ec.europa.eu/registry/status/valid
+A,en,usda_cl_tess,A,clay,clay,https://inspire.ec.europa.eu/registry/status/valid
+AL,en,usda_cl_tess,AL,silty clay,silty clay,https://inspire.ec.europa.eu/registry/status/valid
+AS,en,usda_cl_tess,AS,sandy clay,sandy clay,https://inspire.ec.europa.eu/registry/status/valid
+F,en,usda_cl_tess,F,loam,loam,https://inspire.ec.europa.eu/registry/status/valid
+FA,en,usda_cl_tess,FA,clay loam,clay loam,https://inspire.ec.europa.eu/registry/status/valid
+FL,en,usda_cl_tess,FL,silty loam,silty loam,https://inspire.ec.europa.eu/registry/status/valid
+FLA,en,usda_cl_tess,FLA,silty clay loam,silty clay loam,https://inspire.ec.europa.eu/registry/status/valid
+FS,en,usda_cl_tess,FS,sandy loam,sandy loam,https://inspire.ec.europa.eu/registry/status/valid
+FSA,en,usda_cl_tess,FSA,sandy clay loam,sandy clay loam,https://inspire.ec.europa.eu/registry/status/valid
+FSF,en,usda_cl_tess,FSF,fine sandy loam,fine sandy loam,https://inspire.ec.europa.eu/registry/status/valid
+FSG,en,usda_cl_tess,FSG,coarse sandy loam,coarse sandy loam,https://inspire.ec.europa.eu/registry/status/valid
+FSM,en,usda_cl_tess,FSM,sandy loam,sandy loam,https://inspire.ec.europa.eu/registry/status/valid
+FSV,en,usda_cl_tess,FSV,very fine sandy loam,very fine sandy loam,https://inspire.ec.europa.eu/registry/status/valid
+L,en,usda_cl_tess,L,silt,silt,https://inspire.ec.europa.eu/registry/status/valid
+S,en,usda_cl_tess,S,sands,sands,https://inspire.ec.europa.eu/registry/status/valid
+SAF,en,usda_cl_tess,SAF,fine sand,fine sand,https://inspire.ec.europa.eu/registry/status/valid
+SAG,en,usda_cl_tess,SAG,coarse sand,coarse sand,https://inspire.ec.europa.eu/registry/status/valid
+SAM,en,usda_cl_tess,SAM,sand,sand,https://inspire.ec.europa.eu/registry/status/valid
+SAV,en,usda_cl_tess,SAV,very fine sand,very fine sand,https://inspire.ec.europa.eu/registry/status/valid
+SF,en,usda_cl_tess,SF,loamy sands,loamy sands,https://inspire.ec.europa.eu/registry/status/valid
+SFF,en,usda_cl_tess,SFF,fine loamy sand,fine loamy sand,https://inspire.ec.europa.eu/registry/status/valid
+SFG,en,usda_cl_tess,SFG,coarse loamy sand,coarse loamy sand,https://inspire.ec.europa.eu/registry/status/valid
+SFM,en,usda_cl_tess,SFM,loamy sand,loamy sand,https://inspire.ec.europa.eu/registry/status/valid
+SFV,en,usda_cl_tess,SFV,very fine loamy sand,very fine loamy sand,https://inspire.ec.europa.eu/registry/status/valid

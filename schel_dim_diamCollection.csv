@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+schel_dim_diam,it,"Scheletro, dimensioni","Frammenti grossolani, Dimensioni","4.4.7 Frammenti grossolani, Dimensioni - Tabelle 4.49 e 4.50, p. 196. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/FragmentsSizeValueCode
+schel_dim_diam,en,"Coarse Fragments, Size","Coarse Fragments, Size","4.4.7 Coarse Fragments, Size - Tables 4.49 and 4.50, p. 196. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/FragmentsSizeValueCode

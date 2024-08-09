@@ -1,0 +1,7 @@
+localid,Language,collection,label,description ,definition,status
+1,it,tipo_screz,1,Litocromie,Litocromie,https://inspire.ec.europa.eu/registry/status/valid
+2,it,tipo_screz,2,Screziature da ossidoriduzione,Screziature da ossidoriduzione,https://inspire.ec.europa.eu/registry/status/valid
+3,it,tipo_screz,3,Screziature di altra origine,Screziature di altra origine,https://inspire.ec.europa.eu/registry/status/valid
+1,en,tipo_screz,1,lithochromie,lithochromie,https://inspire.ec.europa.eu/registry/status/valid
+2,en,tipo_screz,2,redox mottles,redox mottles,https://inspire.ec.europa.eu/registry/status/valid
+3,en,tipo_screz,3,other origin mottles,other origin mottles,https://inspire.ec.europa.eu/registry/status/valid

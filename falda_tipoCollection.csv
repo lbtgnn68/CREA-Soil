@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+falda_tipo,it,"Falda, tipo",Tipo di falda idrica,"4.5.1 Falda superficiale, Tipo di falda - Tabella 4.84, p. 221. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/11571
+falda_tipo,en,Groundwater type,Groundwater type,"4.5.1 Groundwater, Water Table Type - Table 4.84, p. 221. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/11572

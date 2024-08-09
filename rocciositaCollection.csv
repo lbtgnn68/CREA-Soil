@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+rocciosita,it,Rocciosit…,"Caratteri di superficie, Rocciosit…","4.3.4 Caratteri di superficie, Rocciosit… - Tabella 4.29, p. 180. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/RockOutcropsCoverValueCode
+rocciosita,en,Rockiness,"Surface Features, Rockiness","4.3.4 Surface Features, Rockiness - Table 4.29, p. 180. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/RockOutcropsCoverValueCode

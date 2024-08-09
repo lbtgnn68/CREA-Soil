@@ -1,0 +1,3 @@
+localid,Language,label,description,definition
+litolpm_orig,it,"Materiale genitore, Origine",Origine del  materiale genitore,"4.3.2 Descrizione del parent material, Origine - Tabella 4.15, p.165. https://doi.org/10.5281/zenodo.7589089"
+litolpm_orig,en,"Parent Material, Origin","Parent Material Description, Origin","4.3.2 Parent Material Description, Origin - Table 4.15, p. 165. https://doi.org/10.5281/zenodo.7589089"

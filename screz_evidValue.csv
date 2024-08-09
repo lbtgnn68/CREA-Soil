@@ -1,0 +1,7 @@
+localid,Language,collection,label,description ,definition,status
+1,it,screz_evid,1,debole,debole,https://inspire.ec.europa.eu/registry/status/valid
+2,it,screz_evid,2,distinta,distinta,https://inspire.ec.europa.eu/registry/status/valid
+3,it,screz_evid,3,marcata,marcata,https://inspire.ec.europa.eu/registry/status/valid
+1,en,screz_evid,1,faint,faint,https://inspire.ec.europa.eu/registry/status/valid
+2,en,screz_evid,2,distinct,distinct,https://inspire.ec.europa.eu/registry/status/valid
+3,en,screz_evid,3,prominent,prominent,https://inspire.ec.europa.eu/registry/status/valid

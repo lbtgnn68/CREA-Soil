@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+schel_quanti,it,"Scheletro, abbondanza","Frammenti grossolani, Abbondanza","4.4.7 Frammenti grossolani, Abbondanza - Tabella 4.48, p. 196. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/fragmentsClassValueCode-FVT
+schel_quanti,en,"Coarse Fragments, Abundance","Coarse Fragments, Abundance","4.4.7 Coarse Fragments, Abundance - Table 4.48, p. 196. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/fragmentsClassValueCode-FVT

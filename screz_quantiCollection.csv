@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+screz_quanti,it,"Screziature, abbondanza","Figure redox e litocromie, Abbondanza","4.4.5 Figure redox e litocromie, Abbondanza - Tabella 4.40, p. 190. https://doi.org/10.5281/zenodo.7589089",https://glosis-ld.github.io/glosis/glosis_cl/index-en.html#/MottlesAbundanceValueCode
+screz_quanti,en,Mottles Abundance,"Redox Features and Lithochromies, Abundance","4.4.5 Redox Features and Lithochromies, Abundance - Table 4.40, p. 190. https://doi.org/10.5281/zenodo.7589089",https://glosis-ld.github.io/glosis/glosis_cl/index-en.html#/MottlesAbundanceValueCode

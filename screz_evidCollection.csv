@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+screz_evid,it,"Screziature, evidenza","Figure redox e litocromie, Evidenza","4.4.5 Figure redox e litocromie, Evidenza - Tabella 4.43, p. 191. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/ContrastValueCode
+screz_evid,en,Mottles Distinctness,"Redox Features and Lithochromies, Distinctness","4.4.5 Redox Features and Lithochromies, Distinctness - Table 4.43, p. 191. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/ContrastValueCode

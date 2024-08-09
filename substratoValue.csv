@@ -1,0 +1,405 @@
+localid,Language,collection,label,description ,definition,status
+0,it,substrato,0,sconosciuto,sconosciuto,https://inspire.ec.europa.eu/registry/status/valid
+AC,it,substrato,AC,sedimenti marini litoranei,sedimenti marini litoranei,https://inspire.ec.europa.eu/registry/status/valid
+ACB,it,substrato,ACB,depositi cementati da carbonati,depositi cementati da carbonati,https://inspire.ec.europa.eu/registry/status/valid
+ACC,it,substrato,ACC,depositi di canale tidale,depositi di canale tidale,https://inspire.ec.europa.eu/registry/status/valid
+ACD,it,substrato,ACD,sabbie di cordone,sabbie di cordone,https://inspire.ec.europa.eu/registry/status/valid
+ACE,it,substrato,ACE,depositi di estuario,depositi di estuario,https://inspire.ec.europa.eu/registry/status/valid
+ACF,it,substrato,ACF,depositi di falesia o costa alta,depositi di falesia o costa alta,https://inspire.ec.europa.eu/registry/status/valid
+ACP,it,substrato,ACP,depositi di palude salmastra,depositi di palude salmastra,https://inspire.ec.europa.eu/registry/status/valid
+ACR,it,substrato,ACR,depositi cementati da sostanza organica e/o ossidi,depositi cementati da sostanza organica e/o ossidi,https://inspire.ec.europa.eu/registry/status/valid
+ACS,it,substrato,ACS,depositi di spiaggia,depositi di spiaggia,https://inspire.ec.europa.eu/registry/status/valid
+ACT,it,substrato,ACT,depositi di piana tidale,depositi di piana tidale,https://inspire.ec.europa.eu/registry/status/valid
+AF,it,substrato,AF,sedimenti fluviali,sedimenti fluviali,https://inspire.ec.europa.eu/registry/status/valid
+AFB,it,substrato,AFB,depositi di piena a bassa energia,depositi di piena a bassa energia,https://inspire.ec.europa.eu/registry/status/valid
+AFC,it,substrato,AFC,depositi di canale,depositi di canale,https://inspire.ec.europa.eu/registry/status/valid
+AFF,it,substrato,AFF,depositi di conoide,depositi di conoide,https://inspire.ec.europa.eu/registry/status/valid
+AFH,it,substrato,AFH,colmate,colmate,https://inspire.ec.europa.eu/registry/status/valid
+AFP,it,substrato,AFP,depositi di piena ad alta energia,depositi di piena ad alta energia,https://inspire.ec.europa.eu/registry/status/valid
+AL,it,substrato,AL,sedimenti lacustri o fluviolacustri,sedimenti lacustri o fluviolacustri,https://inspire.ec.europa.eu/registry/status/valid
+ALC,it,substrato,ALC,fanghi calcarei,fanghi calcarei,https://inspire.ec.europa.eu/registry/status/valid
+ALD,it,substrato,ALD,fanghi diatomitici,fanghi diatomitici,https://inspire.ec.europa.eu/registry/status/valid
+ALF,it,substrato,ALF,argille e limi fluviolacustri,argille e limi fluviolacustri,https://inspire.ec.europa.eu/registry/status/valid
+ALR,it,substrato,ALR,sedimenti lacustri grossolani,sedimenti lacustri grossolani,https://inspire.ec.europa.eu/registry/status/valid
+ALS,it,substrato,ALS,sabbie fluviolacustri,sabbie fluviolacustri,https://inspire.ec.europa.eu/registry/status/valid
+AM,it,substrato,AM,sedimenti marini,sedimenti marini,https://inspire.ec.europa.eu/registry/status/valid
+AMC,it,substrato,AMC,sedimenti marini con assetto caotico o indifferenziato,sedimenti marini con assetto caotico o indifferenziato,https://inspire.ec.europa.eu/registry/status/valid
+AMP,it,substrato,AMP,argille e limi marini,argille e limi marini,https://inspire.ec.europa.eu/registry/status/valid
+AMR,it,substrato,AMR,sedimenti marini grossolani,sedimenti marini grossolani,https://inspire.ec.europa.eu/registry/status/valid
+AMS,it,substrato,AMS,sabbie marine,sabbie marine,https://inspire.ec.europa.eu/registry/status/valid
+AP,it,substrato,AP,sedimenti palustri,sedimenti palustri,https://inspire.ec.europa.eu/registry/status/valid
+APM,it,substrato,APM,sedimenti palustri prevalentemente minerali,sedimenti palustri prevalentemente minerali,https://inspire.ec.europa.eu/registry/status/valid
+APO,it,substrato,APO,sedimenti palustri prevalentemente organici,sedimenti palustri prevalentemente organici,https://inspire.ec.europa.eu/registry/status/valid
+APV,it,substrato,APV,sedimenti palustri misti,sedimenti palustri misti,https://inspire.ec.europa.eu/registry/status/valid
+AV,it,substrato,AV,depositi di versante,depositi di versante,https://inspire.ec.europa.eu/registry/status/valid
+AVA,it,substrato,AVA,alluvioni di versante,alluvioni di versante,https://inspire.ec.europa.eu/registry/status/valid
+AVG,it,substrato,AVG,glacis d’accumulo,glacis d’accumulo,https://inspire.ec.europa.eu/registry/status/valid
+CF,it,substrato,CF,depositi di frana,depositi di frana,https://inspire.ec.europa.eu/registry/status/valid
+CL,it,substrato,CL,depositi di colata,depositi di colata,https://inspire.ec.europa.eu/registry/status/valid
+CLD,it,substrato,CLD,colata di detrito,colata di detrito,https://inspire.ec.europa.eu/registry/status/valid
+CLT,it,substrato,CLT,colata di fango,colata di fango,https://inspire.ec.europa.eu/registry/status/valid
+CO,it,substrato,CO,colluvio,colluvio,https://inspire.ec.europa.eu/registry/status/valid
+COA,it,substrato,COA,depositi da lavorazioni agricole,depositi da lavorazioni agricole,https://inspire.ec.europa.eu/registry/status/valid
+COV,it,substrato,COV,colluvio di versante,colluvio di versante,https://inspire.ec.europa.eu/registry/status/valid
+CR,it,substrato,CR,depositi di crollo,depositi di crollo,https://inspire.ec.europa.eu/registry/status/valid
+DA,it,substrato,DA,depositi antropici,depositi antropici,https://inspire.ec.europa.eu/registry/status/valid
+DAA,it,substrato,DAA,riporti di terra a fini agricoli,riporti di terra a fini agricoli,https://inspire.ec.europa.eu/registry/status/valid
+DAC,it,substrato,DAC,inerti di cava,inerti di cava,https://inspire.ec.europa.eu/registry/status/valid
+DAI,it,substrato,DAI,scarti di miniera o industriali,scarti di miniera o industriali,https://inspire.ec.europa.eu/registry/status/valid
+DAR,it,substrato,DAR,rifiuti,rifiuti,https://inspire.ec.europa.eu/registry/status/valid
+DAU,it,substrato,DAU,riporti di terra a fini non agricoli,riporti di terra a fini non agricoli,https://inspire.ec.europa.eu/registry/status/valid
+DF,it,substrato,DF,depositi freato-magmatici,depositi freato-magmatici,https://inspire.ec.europa.eu/registry/status/valid
+DP,it,substrato,DP,depositi del vulcanismo esplosivo (piroclastico),depositi del vulcanismo esplosivo (piroclastico),https://inspire.ec.europa.eu/registry/status/valid
+DPC,it,substrato,DPC,ceneri da caduta o da flusso piroclastico,ceneri da caduta o da flusso piroclastico,https://inspire.ec.europa.eu/registry/status/valid
+DPL,it,substrato,DPL,lahar,lahar,https://inspire.ec.europa.eu/registry/status/valid
+DPP,it,substrato,DPP,depositi piroclastici da caduta,depositi piroclastici da caduta,https://inspire.ec.europa.eu/registry/status/valid
+DPP1,it,substrato,DPP1,pomici,pomici,https://inspire.ec.europa.eu/registry/status/valid
+DPP2,it,substrato,DPP2,scorie,scorie,https://inspire.ec.europa.eu/registry/status/valid
+DPP3,it,substrato,DPP3,blocchi,blocchi,https://inspire.ec.europa.eu/registry/status/valid
+DPP4,it,substrato,DPP4,bombe,bombe,https://inspire.ec.europa.eu/registry/status/valid
+DPP5,it,substrato,DPP5,lapilli,lapilli,https://inspire.ec.europa.eu/registry/status/valid
+DPS,it,substrato,DPS,depositi da surge,depositi da surge,https://inspire.ec.europa.eu/registry/status/valid
+DR,it,substrato,DR,"depositi piroclastici rimaneggiati da processi fluviali, lacustri e marini","depositi piroclastici rimaneggiati da processi fluviali, lacustri e marini",https://inspire.ec.europa.eu/registry/status/valid
+DV,it,substrato,DV,depositi vulcanici (tephra),depositi vulcanici (tephra),https://inspire.ec.europa.eu/registry/status/valid
+EO,it,substrato,EO,deposito eolico,deposito eolico,https://inspire.ec.europa.eu/registry/status/valid
+EOF,it,substrato,EOF,deposito eolico fine,deposito eolico fine,https://inspire.ec.europa.eu/registry/status/valid
+EOL,it,substrato,EOL,loess,loess,https://inspire.ec.europa.eu/registry/status/valid
+EOS,it,substrato,EOS,sabbie eoliche,sabbie eoliche,https://inspire.ec.europa.eu/registry/status/valid
+GL,it,substrato,GL,depositi glaciali o fluvioglaciali,depositi glaciali o fluvioglaciali,https://inspire.ec.europa.eu/registry/status/valid
+GLA,it,substrato,GLA,deposito glaciale assiale,deposito glaciale assiale,https://inspire.ec.europa.eu/registry/status/valid
+GLF,it,substrato,GLF,deposito glaciofluviale,deposito glaciofluviale,https://inspire.ec.europa.eu/registry/status/valid
+GLL,it,substrato,GLL,deposito glaciolacustre,deposito glaciolacustre,https://inspire.ec.europa.eu/registry/status/valid
+GLM,it,substrato,GLM,deposito glaciale frontale,deposito glaciale frontale,https://inspire.ec.europa.eu/registry/status/valid
+GLP,it,substrato,GLP,deposito periglaciale,deposito periglaciale,https://inspire.ec.europa.eu/registry/status/valid
+GLS,it,substrato,GLS,deposito glaciale laterale,deposito glaciale laterale,https://inspire.ec.europa.eu/registry/status/valid
+MA0000,it,substrato,MA0000,rocce magmatiche,rocce magmatiche,https://inspire.ec.europa.eu/registry/status/valid
+MAI000,it,substrato,MAI000,rocce magmatiche intrusive e ipoabissali,rocce magmatiche intrusive e ipoabissali,https://inspire.ec.europa.eu/registry/status/valid
+MAI100,it,substrato,MAI100,rocce plutoniche da acide ad intermedie,rocce plutoniche da acide ad intermedie,https://inspire.ec.europa.eu/registry/status/valid
+MAI101,it,substrato,MAI101,granito,granito,https://inspire.ec.europa.eu/registry/status/valid
+MAI102,it,substrato,MAI102,granodiorite,granodiorite,https://inspire.ec.europa.eu/registry/status/valid
+MAI103,it,substrato,MAI103,diorite,diorite,https://inspire.ec.europa.eu/registry/status/valid
+MAI104,it,substrato,MAI104,tonalite,tonalite,https://inspire.ec.europa.eu/registry/status/valid
+MAI105,it,substrato,MAI105,sienite,sienite,https://inspire.ec.europa.eu/registry/status/valid
+MAI106,it,substrato,MAI106,monzonite,monzonite,https://inspire.ec.europa.eu/registry/status/valid
+MAI200,it,substrato,MAI200,rocce plutoniche da basiche ad ultrabasiche,rocce plutoniche da basiche ad ultrabasiche,https://inspire.ec.europa.eu/registry/status/valid
+MAI201,it,substrato,MAI201,gabbro,gabbro,https://inspire.ec.europa.eu/registry/status/valid
+MAI202,it,substrato,MAI202,anortosite,anortosite,https://inspire.ec.europa.eu/registry/status/valid
+MAI203,it,substrato,MAI203,peridotite,peridotite,https://inspire.ec.europa.eu/registry/status/valid
+MAI204,it,substrato,MAI204,pirossenite,pirossenite,https://inspire.ec.europa.eu/registry/status/valid
+MAI205,it,substrato,MAI205,diabase,diabase,https://inspire.ec.europa.eu/registry/status/valid
+MAI206,it,substrato,MAI206,serpentinite,serpentinite,https://inspire.ec.europa.eu/registry/status/valid
+MAI207,it,substrato,MAI207,ofiolace,ofiolace,https://inspire.ec.europa.eu/registry/status/valid
+MAP000,it,substrato,MAP000,rocce vulcaniche piroclastiche,rocce vulcaniche piroclastiche,https://inspire.ec.europa.eu/registry/status/valid
+MAP100,it,substrato,MAP100,rocce vulcaniche piroclastiche consolidate da materiali di diametro ,rocce vulcaniche piroclastiche consolidate da materiali di diametro ,https://inspire.ec.europa.eu/registry/status/valid
+MAP101,it,substrato,MAP101,cineriti,cineriti,https://inspire.ec.europa.eu/registry/status/valid
+MAP102,it,substrato,MAP102,ignimbrite,ignimbrite,https://inspire.ec.europa.eu/registry/status/valid
+MAP200,it,substrato,MAP200,rocce vulcaniche piroclastiche consolidate da materiali di diametro >2 mm,rocce vulcaniche piroclastiche consolidate da materiali di diametro >2 mm,https://inspire.ec.europa.eu/registry/status/valid
+MAP201,it,substrato,MAP201,tufi,tufi,https://inspire.ec.europa.eu/registry/status/valid
+MAP202,it,substrato,MAP202,agglomerati,agglomerati,https://inspire.ec.europa.eu/registry/status/valid
+MAP203,it,substrato,MAP203,brecce vulcaniche,brecce vulcaniche,https://inspire.ec.europa.eu/registry/status/valid
+MAP300,it,substrato,MAP300,depositi da surge consolidati,depositi da surge consolidati,https://inspire.ec.europa.eu/registry/status/valid
+MAV000,it,substrato,MAV000,rocce effusive vulcaniche e subvulcaniche,rocce effusive vulcaniche e subvulcaniche,https://inspire.ec.europa.eu/registry/status/valid
+MAV100,it,substrato,MAV100,rocce effusive acide,rocce effusive acide,https://inspire.ec.europa.eu/registry/status/valid
+MAV101,it,substrato,MAV101,ossidiana,ossidiana,https://inspire.ec.europa.eu/registry/status/valid
+MAV102,it,substrato,MAV102,riolite,riolite,https://inspire.ec.europa.eu/registry/status/valid
+MAV103,it,substrato,MAV103,porfido,porfido,https://inspire.ec.europa.eu/registry/status/valid
+MAV104,it,substrato,MAV104,dacite,dacite,https://inspire.ec.europa.eu/registry/status/valid
+MAV105,it,substrato,MAV105,trachite,trachite,https://inspire.ec.europa.eu/registry/status/valid
+MAV200,it,substrato,MAV200,rocce effusive intermedie,rocce effusive intermedie,https://inspire.ec.europa.eu/registry/status/valid
+MAV201,it,substrato,MAV201,andesite,andesite,https://inspire.ec.europa.eu/registry/status/valid
+MAV202,it,substrato,MAV202,latite,latite,https://inspire.ec.europa.eu/registry/status/valid
+MAV203,it,substrato,MAV203,fonolite,fonolite,https://inspire.ec.europa.eu/registry/status/valid
+MAV300,it,substrato,MAV300,rocce effusive basiche e ultrabasiche,rocce effusive basiche e ultrabasiche,https://inspire.ec.europa.eu/registry/status/valid
+MAV301,it,substrato,MAV301,tefrite,tefrite,https://inspire.ec.europa.eu/registry/status/valid
+MAV302,it,substrato,MAV302,basalto,basalto,https://inspire.ec.europa.eu/registry/status/valid
+MAV303,it,substrato,MAV303,basanite,basanite,https://inspire.ec.europa.eu/registry/status/valid
+MAV304,it,substrato,MAV304,foidite,foidite,https://inspire.ec.europa.eu/registry/status/valid
+MAV305,it,substrato,MAV305,nefelinite,nefelinite,https://inspire.ec.europa.eu/registry/status/valid
+MAV306,it,substrato,MAV306,leucitite,leucitite,https://inspire.ec.europa.eu/registry/status/valid
+ME0000,it,substrato,ME0000,rocce metamorfiche,rocce metamorfiche,https://inspire.ec.europa.eu/registry/status/valid
+MEC201,it,substrato,MEC201,rocce calcisilicatiche (skarn),rocce calcisilicatiche (skarn),https://inspire.ec.europa.eu/registry/status/valid
+MEM000,it,substrato,MEM000,rocce metamorfiche originate da rocce magmatiche,rocce metamorfiche originate da rocce magmatiche,https://inspire.ec.europa.eu/registry/status/valid
+MEM100,it,substrato,MEM100,rocce metamorfiche originate da rocce magmatiche quarzo-feldspatiche,rocce metamorfiche originate da rocce magmatiche quarzo-feldspatiche,https://inspire.ec.europa.eu/registry/status/valid
+MEM101,it,substrato,MEM101,gneiss,gneiss,https://inspire.ec.europa.eu/registry/status/valid
+MEM102,it,substrato,MEM102,migmatite,migmatite,https://inspire.ec.europa.eu/registry/status/valid
+MEM103,it,substrato,MEM103,granulite feldspatica,granulite feldspatica,https://inspire.ec.europa.eu/registry/status/valid
+MEM104,it,substrato,MEM104,scisto bianco e quarzo-scisto,scisto bianco e quarzo-scisto,https://inspire.ec.europa.eu/registry/status/valid
+MEM105,it,substrato,MEM105,metagrovacca,metagrovacca,https://inspire.ec.europa.eu/registry/status/valid
+MEM200,it,substrato,MEM200,rocce metamorfiche originate da rocce magmatiche femiche,rocce metamorfiche originate da rocce magmatiche femiche,https://inspire.ec.europa.eu/registry/status/valid
+MEM201,it,substrato,MEM201,"scisti verdi (prasiniti, cloritoscisti, talcoscisti)","scisti verdi (prasiniti, cloritoscisti, talcoscisti)",https://inspire.ec.europa.eu/registry/status/valid
+MEM202,it,substrato,MEM202,anfibolite,anfibolite,https://inspire.ec.europa.eu/registry/status/valid
+MEM203,it,substrato,MEM203,eclogite,eclogite,https://inspire.ec.europa.eu/registry/status/valid
+MEM204,it,substrato,MEM204,metagabbro,metagabbro,https://inspire.ec.europa.eu/registry/status/valid
+MEM205,it,substrato,MEM205,granulite basica,granulite basica,https://inspire.ec.europa.eu/registry/status/valid
+MEM300,it,substrato,MEM300,rocce metamorfiche originate da rocce magmatiche ultrafemiche,rocce metamorfiche originate da rocce magmatiche ultrafemiche,https://inspire.ec.europa.eu/registry/status/valid
+MEM301,it,substrato,MEM301,serpentinite e serpentino scisti,serpentinite e serpentino scisti,https://inspire.ec.europa.eu/registry/status/valid
+MES000,it,substrato,MES000,rocce metamorfiche originate da rocce sedimantarie,rocce metamorfiche originate da rocce sedimantarie,https://inspire.ec.europa.eu/registry/status/valid
+MES100,it,substrato,MES100,rocce metamorfiche originate da rocce sedimantarie pelitiche,rocce metamorfiche originate da rocce sedimantarie pelitiche,https://inspire.ec.europa.eu/registry/status/valid
+MES101,it,substrato,MES101,argilloscisto,argilloscisto,https://inspire.ec.europa.eu/registry/status/valid
+MES102,it,substrato,MES102,filladi e scisti sericitico-cloritici,filladi e scisti sericitico-cloritici,https://inspire.ec.europa.eu/registry/status/valid
+MES103,it,substrato,MES103,micascisto,micascisto,https://inspire.ec.europa.eu/registry/status/valid
+MES104,it,substrato,MES104,cornubianiti,cornubianiti,https://inspire.ec.europa.eu/registry/status/valid
+MES200,it,substrato,MES200,rocce metamorfiche originate da rocce sedimantarie arenatiche,rocce metamorfiche originate da rocce sedimantarie arenatiche,https://inspire.ec.europa.eu/registry/status/valid
+MES201,it,substrato,MES201,quarzite,quarzite,https://inspire.ec.europa.eu/registry/status/valid
+MES300,it,substrato,MES300,rocce metamorfiche originate da rocce sedimantarie calcaree,rocce metamorfiche originate da rocce sedimantarie calcaree,https://inspire.ec.europa.eu/registry/status/valid
+MES301,it,substrato,MES301,calcescisto,calcescisto,https://inspire.ec.europa.eu/registry/status/valid
+MES302,it,substrato,MES302,marmo,marmo,https://inspire.ec.europa.eu/registry/status/valid
+MES303,it,substrato,MES303,scisti sericitico-cloritici calcarei,scisti sericitico-cloritici calcarei,https://inspire.ec.europa.eu/registry/status/valid
+MET000,it,substrato,MET000,rocce metamorfiche cataclastiche,rocce metamorfiche cataclastiche,https://inspire.ec.europa.eu/registry/status/valid
+MET001,it,substrato,MET001,"breccia tettonica, cataclasiti e miloniti, a cemento calcareo","breccia tettonica, cataclasiti e miloniti, a cemento calcareo",https://inspire.ec.europa.eu/registry/status/valid
+MET002,it,substrato,MET002,"breccia tettonica, cataclasiti e miloniti, a cemento siliceo","breccia tettonica, cataclasiti e miloniti, a cemento siliceo",https://inspire.ec.europa.eu/registry/status/valid
+OF,it,substrato,OF,fanghi organici,fanghi organici,https://inspire.ec.europa.eu/registry/status/valid
+OO,it,substrato,OO,depositi organici,depositi organici,https://inspire.ec.europa.eu/registry/status/valid
+OT,it,substrato,OT,torba,torba,https://inspire.ec.europa.eu/registry/status/valid
+RE,it,substrato,RE,residuo,residuo,https://inspire.ec.europa.eu/registry/status/valid
+REC,it,substrato,REC,residuo di roccia calcarea,residuo di roccia calcarea,https://inspire.ec.europa.eu/registry/status/valid
+RED,it,substrato,RED,detrito in posto,detrito in posto,https://inspire.ec.europa.eu/registry/status/valid
+RES,it,substrato,RES,saprolite,saprolite,https://inspire.ec.europa.eu/registry/status/valid
+SE0000,it,substrato,SE0000,rocce sedimentarie,rocce sedimentarie,https://inspire.ec.europa.eu/registry/status/valid
+SE1000,it,substrato,SE1000,rocce sedimentarie clastiche,rocce sedimentarie clastiche,https://inspire.ec.europa.eu/registry/status/valid
+SE1100,it,substrato,SE1100,rocce sedimentarie clastiche consolidate e poco consolidate,rocce sedimentarie clastiche consolidate e poco consolidate,https://inspire.ec.europa.eu/registry/status/valid
+SE1101,it,substrato,SE1101,conglomerato o rudite,conglomerato o rudite,https://inspire.ec.europa.eu/registry/status/valid
+SE1102,it,substrato,SE1102,arenite,arenite,https://inspire.ec.europa.eu/registry/status/valid
+SE1103,it,substrato,SE1103,silcarenite a cemento siliceo,silcarenite a cemento siliceo,https://inspire.ec.europa.eu/registry/status/valid
+SE1104,it,substrato,SE1104,silcarenite a cemento calcareo,silcarenite a cemento calcareo,https://inspire.ec.europa.eu/registry/status/valid
+SE1105,it,substrato,SE1105,calcarenite,calcarenite,https://inspire.ec.europa.eu/registry/status/valid
+SE1106,it,substrato,SE1106,siltite,siltite,https://inspire.ec.europa.eu/registry/status/valid
+SE1107,it,substrato,SE1107,argillite,argillite,https://inspire.ec.europa.eu/registry/status/valid
+SE1108,it,substrato,SE1108,torbidite,torbidite,https://inspire.ec.europa.eu/registry/status/valid
+SE1108A,it,substrato,SE1108A,torbidite prevalentemente arenacea,torbidite prevalentemente arenacea,https://inspire.ec.europa.eu/registry/status/valid
+SE1108B,it,substrato,SE1108B,torbidite prevalentemente argillosa e siltosa,torbidite prevalentemente argillosa e siltosa,https://inspire.ec.europa.eu/registry/status/valid
+SE1108C,it,substrato,SE1108C,torbidite prevalentemente conglomeratica,torbidite prevalentemente conglomeratica,https://inspire.ec.europa.eu/registry/status/valid
+SE1108D,it,substrato,SE1108D,torbidite prevalentemente arenaceo-calcarea,torbidite prevalentemente arenaceo-calcarea,https://inspire.ec.europa.eu/registry/status/valid
+SE1108E,it,substrato,SE1108E,torbidite prevalentemente calcareo-marnosa,torbidite prevalentemente calcareo-marnosa,https://inspire.ec.europa.eu/registry/status/valid
+SE1108F,it,substrato,SE1108F,torbidite prevalentemente arenaceo-argillosa,torbidite prevalentemente arenaceo-argillosa,https://inspire.ec.europa.eu/registry/status/valid
+SE1108G,it,substrato,SE1108G,torbidite prevalentemente argilloso-calcarea,torbidite prevalentemente argilloso-calcarea,https://inspire.ec.europa.eu/registry/status/valid
+SE1109,it,substrato,SE1109,marna,marna,https://inspire.ec.europa.eu/registry/status/valid
+SE1109A,it,substrato,SE1109A,argilla marnosa,argilla marnosa,https://inspire.ec.europa.eu/registry/status/valid
+SE1109B,it,substrato,SE1109B,marna argillosa,marna argillosa,https://inspire.ec.europa.eu/registry/status/valid
+SE1109C,it,substrato,SE1109C,marna calcarea,marna calcarea,https://inspire.ec.europa.eu/registry/status/valid
+SE1109D,it,substrato,SE1109D,calcare marnoso,calcare marnoso,https://inspire.ec.europa.eu/registry/status/valid
+SE1110,it,substrato,SE1110,calcare clastico (calcirudite),calcare clastico (calcirudite),https://inspire.ec.europa.eu/registry/status/valid
+SE1111,it,substrato,SE1111,diaspri,diaspri,https://inspire.ec.europa.eu/registry/status/valid
+SE1112,it,substrato,SE1112,lignite,lignite,https://inspire.ec.europa.eu/registry/status/valid
+SE2000,it,substrato,SE2000,rocce sedimentarie di deposito chimico e organogene,rocce sedimentarie di deposito chimico e organogene,https://inspire.ec.europa.eu/registry/status/valid
+SE2100,it,substrato,SE2100,rocce sedimentarie di deposito chimico precipitativo,rocce sedimentarie di deposito chimico precipitativo,https://inspire.ec.europa.eu/registry/status/valid
+SE2101,it,substrato,SE2101,calcare,calcare,https://inspire.ec.europa.eu/registry/status/valid
+SE2101A,it,substrato,SE2101A,calcare cavernoso,calcare cavernoso,https://inspire.ec.europa.eu/registry/status/valid
+SE2101B,it,substrato,SE2101B,calcare oolitico e pisolitico,calcare oolitico e pisolitico,https://inspire.ec.europa.eu/registry/status/valid
+SE2101C,it,substrato,SE2101C,calcare lacustre,calcare lacustre,https://inspire.ec.europa.eu/registry/status/valid
+SE2101D,it,substrato,SE2101D,calcare dolomitico,calcare dolomitico,https://inspire.ec.europa.eu/registry/status/valid
+SE2102,it,substrato,SE2102,travertino,travertino,https://inspire.ec.europa.eu/registry/status/valid
+SE2103,it,substrato,SE2103,dolomia,dolomia,https://inspire.ec.europa.eu/registry/status/valid
+SE2103A,it,substrato,SE2103A,dolomia calcarea,dolomia calcarea,https://inspire.ec.europa.eu/registry/status/valid
+SE2200,it,substrato,SE2200,rocce sedimentarie di deposito chimico evaporitico,rocce sedimentarie di deposito chimico evaporitico,https://inspire.ec.europa.eu/registry/status/valid
+SE2201,it,substrato,SE2201,calcare evaporitico,calcare evaporitico,https://inspire.ec.europa.eu/registry/status/valid
+SE2202,it,substrato,SE2202,gesso e anidrite,gesso e anidrite,https://inspire.ec.europa.eu/registry/status/valid
+SE2203,it,substrato,SE2203,alite,alite,https://inspire.ec.europa.eu/registry/status/valid
+SE2300,it,substrato,SE2300,rocce sedimentarie organogene,rocce sedimentarie organogene,https://inspire.ec.europa.eu/registry/status/valid
+SE2301,it,substrato,SE2301,calcare fossilifero,calcare fossilifero,https://inspire.ec.europa.eu/registry/status/valid
+SE2302,it,substrato,SE2302,calcare selcifero,calcare selcifero,https://inspire.ec.europa.eu/registry/status/valid
+SE2303,it,substrato,SE2303,diatomite,diatomite,https://inspire.ec.europa.eu/registry/status/valid
+SE2304,it,substrato,SE2304,selce,selce,https://inspire.ec.europa.eu/registry/status/valid
+Y,it,substrato,Y,"non rilevabile, frequenti differenziazioni","non rilevabile, frequenti differenziazioni",https://inspire.ec.europa.eu/registry/status/valid
+0,en,substrato,0,unknown,unknown,https://inspire.ec.europa.eu/registry/status/valid
+AC,en,substrato,AC,coastal marine sediments,coastal marine sediments,https://inspire.ec.europa.eu/registry/status/valid
+ACB,en,substrato,ACB,carbonate cemented deposit,carbonate cemented deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACC,en,substrato,ACC,tidal channel deposit,tidal channel deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACD,en,substrato,ACD,bar sand,bar sand,https://inspire.ec.europa.eu/registry/status/valid
+ACE,en,substrato,ACE,estuarine deposit,estuarine deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACF,en,substrato,ACF,cliff or high coast deposit,cliff or high coast deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACP,en,substrato,ACP,brackish swamp deposit,brackish swamp deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACR,en,substrato,ACR,oxides and/or organic matter cemented deposit,oxides and/or organic matter cemented deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACS,en,substrato,ACS,beach deposit,beach deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACT,en,substrato,ACT,tidal plane deposit,tidal plane deposit,https://inspire.ec.europa.eu/registry/status/valid
+AF,en,substrato,AF,fluvial sediments,fluvial sediments,https://inspire.ec.europa.eu/registry/status/valid
+AFB,en,substrato,AFB,low energy flood deposit,low energy flood deposit,https://inspire.ec.europa.eu/registry/status/valid
+AFC,en,substrato,AFC,sullage,sullage,https://inspire.ec.europa.eu/registry/status/valid
+AFF,en,substrato,AFF,fan deposit,fan deposit,https://inspire.ec.europa.eu/registry/status/valid
+AFH,en,substrato,AFH,reclamation filling,reclamation filling,https://inspire.ec.europa.eu/registry/status/valid
+AFP,en,substrato,AFP,high energy flood deposit,high energy flood deposit,https://inspire.ec.europa.eu/registry/status/valid
+AL,en,substrato,AL,lacustrine and fluvial-lacustrine deposits,lacustrine and fluvial-lacustrine deposits,https://inspire.ec.europa.eu/registry/status/valid
+ALC,en,substrato,ALC,calcareous mud,calcareous mud,https://inspire.ec.europa.eu/registry/status/valid
+ALD,en,substrato,ALD,diatomitic mud,diatomitic mud,https://inspire.ec.europa.eu/registry/status/valid
+ALF,en,substrato,ALF,fluvial-lacustrine clay and silt,fluvial-lacustrine clay and silt,https://inspire.ec.europa.eu/registry/status/valid
+ALR,en,substrato,ALR,coarse lacustrine deposit,coarse lacustrine deposit,https://inspire.ec.europa.eu/registry/status/valid
+ALS,en,substrato,ALS,fluvial-lacustrine sand,fluvial-lacustrine sand,https://inspire.ec.europa.eu/registry/status/valid
+AM,en,substrato,AM,marine sediments,marine sediments,https://inspire.ec.europa.eu/registry/status/valid
+AMC,en,substrato,AMC,undifferentiated marine sediment,undifferentiated marine sediment,https://inspire.ec.europa.eu/registry/status/valid
+AMP,en,substrato,AMP,marine clay and silt,marine clay and silt,https://inspire.ec.europa.eu/registry/status/valid
+AMR,en,substrato,AMR,coarse marine sediment,coarse marine sediment,https://inspire.ec.europa.eu/registry/status/valid
+AMS,en,substrato,AMS,marine sand,marine sand,https://inspire.ec.europa.eu/registry/status/valid
+AP,en,substrato,AP,palustrine sediments,palustrine sediments,https://inspire.ec.europa.eu/registry/status/valid
+APM,en,substrato,APM,mainly mineral palustrine sediment,mainly mineral palustrine sediment,https://inspire.ec.europa.eu/registry/status/valid
+APO,en,substrato,APO,mainly organic palustrine sediment,mainly organic palustrine sediment,https://inspire.ec.europa.eu/registry/status/valid
+APV,en,substrato,APV,mixed palustrine sediment,mixed palustrine sediment,https://inspire.ec.europa.eu/registry/status/valid
+AV,en,substrato,AV,slope deposits,slope deposits,https://inspire.ec.europa.eu/registry/status/valid
+AVA,en,substrato,AVA,slope alluvia,slope alluvia,https://inspire.ec.europa.eu/registry/status/valid
+AVG,en,substrato,AVG,accumulation glacis,accumulation glacis,https://inspire.ec.europa.eu/registry/status/valid
+CF,en,substrato,CF,landslide deposit,landslide deposit,https://inspire.ec.europa.eu/registry/status/valid
+CL,en,substrato,CL,flow deposit,flow deposit,https://inspire.ec.europa.eu/registry/status/valid
+CLD,en,substrato,CLD,debris flow,debris flow,https://inspire.ec.europa.eu/registry/status/valid
+CLT,en,substrato,CLT,mud flow,mud flow,https://inspire.ec.europa.eu/registry/status/valid
+CO,en,substrato,CO,colluvium,colluvium,https://inspire.ec.europa.eu/registry/status/valid
+COA,en,substrato,COA,tillage deposit,tillage deposit,https://inspire.ec.europa.eu/registry/status/valid
+COV,en,substrato,COV,slope colluvium,slope colluvium,https://inspire.ec.europa.eu/registry/status/valid
+CR,en,substrato,CR,collapse deposit,collapse deposit,https://inspire.ec.europa.eu/registry/status/valid
+DA,en,substrato,DA,anthropic deposits,anthropic deposits,https://inspire.ec.europa.eu/registry/status/valid
+DAA,en,substrato,DAA,land fill for agriculture purpose,land fill for agriculture purpose,https://inspire.ec.europa.eu/registry/status/valid
+DAC,en,substrato,DAC,quarry deposit,quarry deposit,https://inspire.ec.europa.eu/registry/status/valid
+DAI,en,substrato,DAI,mine or industrial waste,mine or industrial waste,https://inspire.ec.europa.eu/registry/status/valid
+DAR,en,substrato,DAR,garbage,garbage,https://inspire.ec.europa.eu/registry/status/valid
+DAU,en,substrato,DAU,land fill,land fill,https://inspire.ec.europa.eu/registry/status/valid
+DF,en,substrato,DF,volcanic phreatic magmatic deposit,volcanic phreatic magmatic deposit,https://inspire.ec.europa.eu/registry/status/valid
+DP,en,substrato,DP,volcanoclastic deposit,volcanoclastic deposit,https://inspire.ec.europa.eu/registry/status/valid
+DPC,en,substrato,DPC,volcanic ash and ash flow,volcanic ash and ash flow,https://inspire.ec.europa.eu/registry/status/valid
+DPL,en,substrato,DPL,lahar,lahar,https://inspire.ec.europa.eu/registry/status/valid
+DPP,en,substrato,DPP,volcanic ash,volcanic ash,https://inspire.ec.europa.eu/registry/status/valid
+DPP1,en,substrato,DPP1,pumice,pumice,https://inspire.ec.europa.eu/registry/status/valid
+DPP2,en,substrato,DPP2,scoria,scoria,https://inspire.ec.europa.eu/registry/status/valid
+DPP3,en,substrato,DPP3,block,block,https://inspire.ec.europa.eu/registry/status/valid
+DPP4,en,substrato,DPP4,bomb,bomb,https://inspire.ec.europa.eu/registry/status/valid
+DPP5,en,substrato,DPP5,lapilli,lapilli,https://inspire.ec.europa.eu/registry/status/valid
+DPS,en,substrato,DPS,surge deposit,surge deposit,https://inspire.ec.europa.eu/registry/status/valid
+DR,en,substrato,DR,"fluvial, marine and lacustrine deposits of volcanic material","fluvial, marine and lacustrine deposits of volcanic material",https://inspire.ec.europa.eu/registry/status/valid
+DV,en,substrato,DV,volcanic deposits (tephra),volcanic deposits (tephra),https://inspire.ec.europa.eu/registry/status/valid
+EO,en,substrato,EO,eolian deposits,eolian deposits,https://inspire.ec.europa.eu/registry/status/valid
+EOF,en,substrato,EOF,fine eolian deposit,fine eolian deposit,https://inspire.ec.europa.eu/registry/status/valid
+EOL,en,substrato,EOL,loess,loess,https://inspire.ec.europa.eu/registry/status/valid
+EOS,en,substrato,EOS,eolian sand,eolian sand,https://inspire.ec.europa.eu/registry/status/valid
+GL,en,substrato,GL,glacial and fluvioglacial deposits,glacial and fluvioglacial deposits,https://inspire.ec.europa.eu/registry/status/valid
+GLA,en,substrato,GLA,axial glacial deposit,axial glacial deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLF,en,substrato,GLF,glacial fluvial deposit,glacial fluvial deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLL,en,substrato,GLL,glacial lacustrine deposit,glacial lacustrine deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLM,en,substrato,GLM,frontal glacial deposit,frontal glacial deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLP,en,substrato,GLP,periglaial deposit,periglaial deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLS,en,substrato,GLS,lateral glacial deposit,lateral glacial deposit,https://inspire.ec.europa.eu/registry/status/valid
+MA0000,en,substrato,MA0000,magmatic rocks,magmatic rocks,https://inspire.ec.europa.eu/registry/status/valid
+MAI000,en,substrato,MAI000,intrusive magmatic rocks,intrusive magmatic rocks,https://inspire.ec.europa.eu/registry/status/valid
+MAI100,en,substrato,MAI100,plutonic rocks from acidic to intermediate,plutonic rocks from acidic to intermediate,https://inspire.ec.europa.eu/registry/status/valid
+MAI101,en,substrato,MAI101,granite,granite,https://inspire.ec.europa.eu/registry/status/valid
+MAI102,en,substrato,MAI102,granodiorite,granodiorite,https://inspire.ec.europa.eu/registry/status/valid
+MAI103,en,substrato,MAI103,diorite,diorite,https://inspire.ec.europa.eu/registry/status/valid
+MAI104,en,substrato,MAI104,tonalite,tonalite,https://inspire.ec.europa.eu/registry/status/valid
+MAI105,en,substrato,MAI105,syenite,syenite,https://inspire.ec.europa.eu/registry/status/valid
+MAI106,en,substrato,MAI106,monzonite,monzonite,https://inspire.ec.europa.eu/registry/status/valid
+MAI200,en,substrato,MAI200,plutonic rock from basic to ultrabasic,plutonic rock from basic to ultrabasic,https://inspire.ec.europa.eu/registry/status/valid
+MAI201,en,substrato,MAI201,gabbro,gabbro,https://inspire.ec.europa.eu/registry/status/valid
+MAI202,en,substrato,MAI202,anortosite,anortosite,https://inspire.ec.europa.eu/registry/status/valid
+MAI203,en,substrato,MAI203,peridotite,peridotite,https://inspire.ec.europa.eu/registry/status/valid
+MAI204,en,substrato,MAI204,pyroxenite,pyroxenite,https://inspire.ec.europa.eu/registry/status/valid
+MAI205,en,substrato,MAI205,diabase,diabase,https://inspire.ec.europa.eu/registry/status/valid
+MAI206,en,substrato,MAI206,serpentinite,serpentinite,https://inspire.ec.europa.eu/registry/status/valid
+MAI207,en,substrato,MAI207,ophiolite,ophiolite,https://inspire.ec.europa.eu/registry/status/valid
+MAP000,en,substrato,MAP000,pyroclastic volcanic rocks,pyroclastic volcanic rocks,https://inspire.ec.europa.eu/registry/status/valid
+MAP100,en,substrato,MAP100,"pyroclastic volcanic rock, consolidated from ","pyroclastic volcanic rock, consolidated from ",https://inspire.ec.europa.eu/registry/status/valid
+MAP101,en,substrato,MAP101,tuff,tuff,https://inspire.ec.europa.eu/registry/status/valid
+MAP102,en,substrato,MAP102,ignimbrite,ignimbrite,https://inspire.ec.europa.eu/registry/status/valid
+MAP200,en,substrato,MAP200,"pyroclastic volcanic rock, consolidated from >2 mm materials","pyroclastic volcanic rock, consolidated from >2 mm materials",https://inspire.ec.europa.eu/registry/status/valid
+MAP201,en,substrato,MAP201,lapillistone,lapillistone,https://inspire.ec.europa.eu/registry/status/valid
+MAP202,en,substrato,MAP202,agglomerate,agglomerate,https://inspire.ec.europa.eu/registry/status/valid
+MAP203,en,substrato,MAP203,volcanic breccia,volcanic breccia,https://inspire.ec.europa.eu/registry/status/valid
+MAP300,en,substrato,MAP300,consolidated surge,consolidated surge,https://inspire.ec.europa.eu/registry/status/valid
+MAV000,en,substrato,MAV000,effusive igneous rocks,effusive igneous rocks,https://inspire.ec.europa.eu/registry/status/valid
+MAV100,en,substrato,MAV100,felsic igneous rock,felsic igneous rock,https://inspire.ec.europa.eu/registry/status/valid
+MAV101,en,substrato,MAV101,obsidian,obsidian,https://inspire.ec.europa.eu/registry/status/valid
+MAV102,en,substrato,MAV102,rhyolite,rhyolite,https://inspire.ec.europa.eu/registry/status/valid
+MAV103,en,substrato,MAV103,porphyry,porphyry,https://inspire.ec.europa.eu/registry/status/valid
+MAV104,en,substrato,MAV104,dacite,dacite,https://inspire.ec.europa.eu/registry/status/valid
+MAV105,en,substrato,MAV105,trachyte,trachyte,https://inspire.ec.europa.eu/registry/status/valid
+MAV200,en,substrato,MAV200,intermediate effusive igneous rock,intermediate effusive igneous rock,https://inspire.ec.europa.eu/registry/status/valid
+MAV201,en,substrato,MAV201,andesite,andesite,https://inspire.ec.europa.eu/registry/status/valid
+MAV202,en,substrato,MAV202,latite,latite,https://inspire.ec.europa.eu/registry/status/valid
+MAV203,en,substrato,MAV203,phonolite,phonolite,https://inspire.ec.europa.eu/registry/status/valid
+MAV300,en,substrato,MAV300,mafic and ultramafic effusive igneous rocks,mafic and ultramafic effusive igneous rocks,https://inspire.ec.europa.eu/registry/status/valid
+MAV301,en,substrato,MAV301,tephrite,tephrite,https://inspire.ec.europa.eu/registry/status/valid
+MAV302,en,substrato,MAV302,basalt,basalt,https://inspire.ec.europa.eu/registry/status/valid
+MAV303,en,substrato,MAV303,basanite,basanite,https://inspire.ec.europa.eu/registry/status/valid
+MAV304,en,substrato,MAV304,foidite,foidite,https://inspire.ec.europa.eu/registry/status/valid
+MAV305,en,substrato,MAV305,nephelinite,nephelinite,https://inspire.ec.europa.eu/registry/status/valid
+MAV306,en,substrato,MAV306,leucitite,leucitite,https://inspire.ec.europa.eu/registry/status/valid
+ME0000,en,substrato,ME0000,metamorphic rocks,metamorphic rocks,https://inspire.ec.europa.eu/registry/status/valid
+MEC201,en,substrato,MEC201,skarn (calcareous-siliceous metamorphic rocks) ,skarn (calcareous-siliceous metamorphic rocks) ,https://inspire.ec.europa.eu/registry/status/valid
+MEM000,en,substrato,MEM000,metamorphic rocks originated from magmatic rocks,metamorphic rocks originated from magmatic rocks,https://inspire.ec.europa.eu/registry/status/valid
+MEM100,en,substrato,MEM100,metamorphic rock originated from felsic and intermediate magmatic rocks,metamorphic rock originated from felsic and intermediate magmatic rocks,https://inspire.ec.europa.eu/registry/status/valid
+MEM101,en,substrato,MEM101,gneiss,gneiss,https://inspire.ec.europa.eu/registry/status/valid
+MEM102,en,substrato,MEM102,migmatite,migmatite,https://inspire.ec.europa.eu/registry/status/valid
+MEM103,en,substrato,MEM103,felsic granulite,felsic granulite,https://inspire.ec.europa.eu/registry/status/valid
+MEM104,en,substrato,MEM104,white schists,white schists,https://inspire.ec.europa.eu/registry/status/valid
+MEM105,en,substrato,MEM105,meta-grey-wacke,meta-grey-wacke,https://inspire.ec.europa.eu/registry/status/valid
+MEM200,en,substrato,MEM200,metamorphic rocks originated from mafic magmatic rocks,metamorphic rocks originated from mafic magmatic rocks,https://inspire.ec.europa.eu/registry/status/valid
+MEM201,en,substrato,MEM201,"green schists (prasinite, cloritic and talc schists)","green schists (prasinite, cloritic and talc schists)",https://inspire.ec.europa.eu/registry/status/valid
+MEM202,en,substrato,MEM202,amphibolite,amphibolite,https://inspire.ec.europa.eu/registry/status/valid
+MEM203,en,substrato,MEM203,eclogite,eclogite,https://inspire.ec.europa.eu/registry/status/valid
+MEM204,en,substrato,MEM204,metagabbro,metagabbro,https://inspire.ec.europa.eu/registry/status/valid
+MEM205,en,substrato,MEM205,mafic granulite,mafic granulite,https://inspire.ec.europa.eu/registry/status/valid
+MEM300,en,substrato,MEM300,metamorphic rocks originated from ultramafic magmatic rocks,metamorphic rocks originated from ultramafic magmatic rocks,https://inspire.ec.europa.eu/registry/status/valid
+MEM301,en,substrato,MEM301,serpentinite,serpentinite,https://inspire.ec.europa.eu/registry/status/valid
+MES000,en,substrato,MES000,metamorphic rocks originated from sedimetary rocks,metamorphic rocks originated from sedimetary rocks,https://inspire.ec.europa.eu/registry/status/valid
+MES100,en,substrato,MES100,metamorphic rocks originated from pelitic sedimetary rocks,metamorphic rocks originated from pelitic sedimetary rocks,https://inspire.ec.europa.eu/registry/status/valid
+MES101,en,substrato,MES101,argilloschist,argilloschist,https://inspire.ec.europa.eu/registry/status/valid
+MES102,en,substrato,MES102,phyllite and sericitic-cloritic schists,phyllite and sericitic-cloritic schists,https://inspire.ec.europa.eu/registry/status/valid
+MES103,en,substrato,MES103,micaschist,micaschist,https://inspire.ec.europa.eu/registry/status/valid
+MES104,en,substrato,MES104,cornubianite,cornubianite,https://inspire.ec.europa.eu/registry/status/valid
+MES200,en,substrato,MES200,metamorphic rocks originated from arenaceous sedimetary rocks,metamorphic rocks originated from arenaceous sedimetary rocks,https://inspire.ec.europa.eu/registry/status/valid
+MES201,en,substrato,MES201,quartzite,quartzite,https://inspire.ec.europa.eu/registry/status/valid
+MES300,en,substrato,MES300,metamorphic rocks originated from calcareous sedimetary rocks,metamorphic rocks originated from calcareous sedimetary rocks,https://inspire.ec.europa.eu/registry/status/valid
+MES301,en,substrato,MES301,calceschist,calceschist,https://inspire.ec.europa.eu/registry/status/valid
+MES302,en,substrato,MES302,marble,marble,https://inspire.ec.europa.eu/registry/status/valid
+MES303,en,substrato,MES303,sericitic-cloritic calcareous schists,sericitic-cloritic calcareous schists,https://inspire.ec.europa.eu/registry/status/valid
+MET000,en,substrato,MET000,mechanical metamorphic rocks,mechanical metamorphic rocks,https://inspire.ec.europa.eu/registry/status/valid
+MET001,en,substrato,MET001,"tectonic breccia, cataclasite, milonite, calcareous cemented","tectonic breccia, cataclasite, milonite, calcareous cemented",https://inspire.ec.europa.eu/registry/status/valid
+MET002,en,substrato,MET002,"tectonic breccia, cataclasite, milonite, siliceous cemented","tectonic breccia, cataclasite, milonite, siliceous cemented",https://inspire.ec.europa.eu/registry/status/valid
+OF,en,substrato,OF,organic mud,organic mud,https://inspire.ec.europa.eu/registry/status/valid
+OO,en,substrato,OO,organic deposit,organic deposit,https://inspire.ec.europa.eu/registry/status/valid
+OT,en,substrato,OT,peat,peat,https://inspire.ec.europa.eu/registry/status/valid
+RE,en,substrato,RE,residue,residue,https://inspire.ec.europa.eu/registry/status/valid
+REC,en,substrato,REC,calcareous rock residue,calcareous rock residue,https://inspire.ec.europa.eu/registry/status/valid
+RED,en,substrato,RED,on place detritus,on place detritus,https://inspire.ec.europa.eu/registry/status/valid
+RES,en,substrato,RES,saprolite,saprolite,https://inspire.ec.europa.eu/registry/status/valid
+SE0000,en,substrato,SE0000,sedimentary rocks,sedimentary rocks,https://inspire.ec.europa.eu/registry/status/valid
+SE1000,en,substrato,SE1000,sedimentary clastics rocks,sedimentary clastics rocks,https://inspire.ec.europa.eu/registry/status/valid
+SE1100,en,substrato,SE1100,consolidated and weakly consolidated sedimentary clastics rocks,consolidated and weakly consolidated sedimentary clastics rocks,https://inspire.ec.europa.eu/registry/status/valid
+SE1101,en,substrato,SE1101,conglomerate or rudite,conglomerate or rudite,https://inspire.ec.europa.eu/registry/status/valid
+SE1102,en,substrato,SE1102,arenite,arenite,https://inspire.ec.europa.eu/registry/status/valid
+SE1103,en,substrato,SE1103,silcarenite with silica cement,silcarenite with silica cement,https://inspire.ec.europa.eu/registry/status/valid
+SE1104,en,substrato,SE1104,silcarenite with calcareous cement,silcarenite with calcareous cement,https://inspire.ec.europa.eu/registry/status/valid
+SE1105,en,substrato,SE1105,calcarenite,calcarenite,https://inspire.ec.europa.eu/registry/status/valid
+SE1106,en,substrato,SE1106,siltstone,siltstone,https://inspire.ec.europa.eu/registry/status/valid
+SE1107,en,substrato,SE1107,claystone,claystone,https://inspire.ec.europa.eu/registry/status/valid
+SE1108,en,substrato,SE1108,turbidite,turbidite,https://inspire.ec.europa.eu/registry/status/valid
+SE1108A,en,substrato,SE1108A,sandy turbidite,sandy turbidite,https://inspire.ec.europa.eu/registry/status/valid
+SE1108B,en,substrato,SE1108B,clayey and silty turbidite ,clayey and silty turbidite ,https://inspire.ec.europa.eu/registry/status/valid
+SE1108C,en,substrato,SE1108C,cobbly turbidite,cobbly turbidite,https://inspire.ec.europa.eu/registry/status/valid
+SE1108D,en,substrato,SE1108D,sandy-calcareous turbidite ,sandy-calcareous turbidite ,https://inspire.ec.europa.eu/registry/status/valid
+SE1108E,en,substrato,SE1108E,marly turbidite ,marly turbidite ,https://inspire.ec.europa.eu/registry/status/valid
+SE1108F,en,substrato,SE1108F,sandy-clayey turbidite ,sandy-clayey turbidite ,https://inspire.ec.europa.eu/registry/status/valid
+SE1108G,en,substrato,SE1108G,clayey-calcareous turbidite ,clayey-calcareous turbidite ,https://inspire.ec.europa.eu/registry/status/valid
+SE1109,en,substrato,SE1109,marl,marl,https://inspire.ec.europa.eu/registry/status/valid
+SE1109A,en,substrato,SE1109A,marly claystone,marly claystone,https://inspire.ec.europa.eu/registry/status/valid
+SE1109B,en,substrato,SE1109B,clayey marl,clayey marl,https://inspire.ec.europa.eu/registry/status/valid
+SE1109C,en,substrato,SE1109C,calcareous marl,calcareous marl,https://inspire.ec.europa.eu/registry/status/valid
+SE1109D,en,substrato,SE1109D,marly limestone,marly limestone,https://inspire.ec.europa.eu/registry/status/valid
+SE1110,en,substrato,SE1110,clastic limestone (calcirudite),clastic limestone (calcirudite),https://inspire.ec.europa.eu/registry/status/valid
+SE1111,en,substrato,SE1111,jasper,jasper,https://inspire.ec.europa.eu/registry/status/valid
+SE1112,en,substrato,SE1112,lignite,lignite,https://inspire.ec.europa.eu/registry/status/valid
+SE2000,en,substrato,SE2000,sedimentary nonclastic rocks,sedimentary nonclastic rocks,https://inspire.ec.europa.eu/registry/status/valid
+SE2100,en,substrato,SE2100,sedimentary nonclastic rocks from chemical deposits,sedimentary nonclastic rocks from chemical deposits,https://inspire.ec.europa.eu/registry/status/valid
+SE2101,en,substrato,SE2101,limestone,limestone,https://inspire.ec.europa.eu/registry/status/valid
+SE2101A,en,substrato,SE2101A,hollow limestone,hollow limestone,https://inspire.ec.europa.eu/registry/status/valid
+SE2101B,en,substrato,SE2101B,oolitic and pisolitic limestone,oolitic and pisolitic limestone,https://inspire.ec.europa.eu/registry/status/valid
+SE2101C,en,substrato,SE2101C,lacustrine limestone,lacustrine limestone,https://inspire.ec.europa.eu/registry/status/valid
+SE2101D,en,substrato,SE2101D,dolomite limestone,dolomite limestone,https://inspire.ec.europa.eu/registry/status/valid
+SE2102,en,substrato,SE2102,travertine,travertine,https://inspire.ec.europa.eu/registry/status/valid
+SE2103,en,substrato,SE2103,dolomite,dolomite,https://inspire.ec.europa.eu/registry/status/valid
+SE2103A,en,substrato,SE2103A,calcareous dolomite,calcareous dolomite,https://inspire.ec.europa.eu/registry/status/valid
+SE2200,en,substrato,SE2200,sedimentary nonclastic rocks from evaporitic deposits,sedimentary nonclastic rocks from evaporitic deposits,https://inspire.ec.europa.eu/registry/status/valid
+SE2201,en,substrato,SE2201,evaporitic limestone,evaporitic limestone,https://inspire.ec.europa.eu/registry/status/valid
+SE2202,en,substrato,SE2202,gypsum e anhydrite,gypsum e anhydrite,https://inspire.ec.europa.eu/registry/status/valid
+SE2203,en,substrato,SE2203,halite,halite,https://inspire.ec.europa.eu/registry/status/valid
+SE2300,en,substrato,SE2300,sedimentary nonclastic rocks from organic deposits,sedimentary nonclastic rocks from organic deposits,https://inspire.ec.europa.eu/registry/status/valid
+SE2301,en,substrato,SE2301,fossil limestone,fossil limestone,https://inspire.ec.europa.eu/registry/status/valid
+SE2302,en,substrato,SE2302,siliceous limestone,siliceous limestone,https://inspire.ec.europa.eu/registry/status/valid
+SE2303,en,substrato,SE2303,diatomite,diatomite,https://inspire.ec.europa.eu/registry/status/valid
+SE2304,en,substrato,SE2304,chert,chert,https://inspire.ec.europa.eu/registry/status/valid
+Y,en,substrato,Y,non differentiable deposits ,non differentiable deposits ,https://inspire.ec.europa.eu/registry/status/valid

@@ -1,0 +1,27 @@
+localid,Language,collection,label,description ,definition,status
+AFI,it,usda_cl_gran,AFI,fine,fine,https://inspire.ec.europa.eu/registry/status/valid
+AMF,it,usda_cl_gran,AMF,molto fine,molto fine,https://inspire.ec.europa.eu/registry/status/valid
+ARG,it,usda_cl_gran,ARG,argillosa,argillosa,https://inspire.ec.europa.eu/registry/status/valid
+FFI,it,usda_cl_gran,FFI,franca fine,franca fine,https://inspire.ec.europa.eu/registry/status/valid
+FGR,it,usda_cl_gran,FGR,franca grossolana,franca grossolana,https://inspire.ec.europa.eu/registry/status/valid
+FRA,it,usda_cl_gran,FRA,franca,franca,https://inspire.ec.europa.eu/registry/status/valid
+FRM,it,usda_cl_gran,FRM,frammentale,frammentale,https://inspire.ec.europa.eu/registry/status/valid
+LFI,it,usda_cl_gran,LFI,limosa fine,limosa fine,https://inspire.ec.europa.eu/registry/status/valid
+LGR,it,usda_cl_gran,LGR,limosa grossolana,limosa grossolana,https://inspire.ec.europa.eu/registry/status/valid
+SAB,it,usda_cl_gran,SAB,sabbiosa,sabbiosa,https://inspire.ec.europa.eu/registry/status/valid
+SKA,it,usda_cl_gran,SKA,scheletrico argillosa,scheletrico argillosa,https://inspire.ec.europa.eu/registry/status/valid
+SKF,it,usda_cl_gran,SKF,scheletrico franca,scheletrico franca,https://inspire.ec.europa.eu/registry/status/valid
+SKS,it,usda_cl_gran,SKS,scheletrico sabbiosa,scheletrico sabbiosa,https://inspire.ec.europa.eu/registry/status/valid
+AFI,en,usda_cl_gran,AFI,fine,fine,https://inspire.ec.europa.eu/registry/status/valid
+AMF,en,usda_cl_gran,AMF,very-fine,very-fine,https://inspire.ec.europa.eu/registry/status/valid
+ARG,en,usda_cl_gran,ARG,clayey,clayey,https://inspire.ec.europa.eu/registry/status/valid
+FFI,en,usda_cl_gran,FFI,fine-loamy,fine-loamy,https://inspire.ec.europa.eu/registry/status/valid
+FGR,en,usda_cl_gran,FGR,coarse-loamy,coarse-loamy,https://inspire.ec.europa.eu/registry/status/valid
+FRA,en,usda_cl_gran,FRA,loamy,loamy,https://inspire.ec.europa.eu/registry/status/valid
+FRM,en,usda_cl_gran,FRM,fragmental,fragmental,https://inspire.ec.europa.eu/registry/status/valid
+LFI,en,usda_cl_gran,LFI,fine-silty,fine-silty,https://inspire.ec.europa.eu/registry/status/valid
+LGR,en,usda_cl_gran,LGR,coarse-silty,coarse-silty,https://inspire.ec.europa.eu/registry/status/valid
+SAB,en,usda_cl_gran,SAB,sandy,sandy,https://inspire.ec.europa.eu/registry/status/valid
+SKA,en,usda_cl_gran,SKA,clayey-skeletal,clayey-skeletal,https://inspire.ec.europa.eu/registry/status/valid
+SKF,en,usda_cl_gran,SKF,loamy-skeletal,loamy-skeletal,https://inspire.ec.europa.eu/registry/status/valid
+SKS,en,usda_cl_gran,SKS,sandy-skeletal,sandy-skeletal,https://inspire.ec.europa.eu/registry/status/valid

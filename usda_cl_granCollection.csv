@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+usda_cl_gran,it,Classe granulometrica,Classe granulometrica  (USDA),"4.4.6 Tessitura, Classe granulometrica - Tabelle 4.46 e 4.47, p. 195. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/33651
+usda_cl_gran,en,Particle Size Class,Particle Size Class (USDA),"4.4.6 Texture, Particle Size Class - Tables 4.46 and 4.47, p. 195. https://doi.org/10.5281/zenodo.7589089",https://lod.nal.usda.gov/nalt/33651

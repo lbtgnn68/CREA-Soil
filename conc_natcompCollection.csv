@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+conc_natcomp,it,"Concentrazioni, Natura e composizione","Concentrazioni, Natura e composizione","4.4.12 Concentrazioni, Natura e composizione - Tabella 4.62, p. 208. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/MineralConcKindValueCode
+conc_natcomp,en,"Cracks, Abundance","Concentrations, Nature and composition","4.4.12 Concentrations, Nature and Composition - Table 4.62, p. 208. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/MineralConcKindValueCode

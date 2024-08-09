@@ -1,0 +1,9 @@
+localid,Language,collection,label,description ,definition,status
+1,it,strut_dim,1,fine,fine,https://inspire.ec.europa.eu/registry/status/valid
+2,it,strut_dim,2,media,media,https://inspire.ec.europa.eu/registry/status/valid
+3,it,strut_dim,3,grande,grande,https://inspire.ec.europa.eu/registry/status/valid
+4,it,strut_dim,4,molto grande,molto grande,https://inspire.ec.europa.eu/registry/status/valid
+1,en,strut_dim,1,fine,fine,https://inspire.ec.europa.eu/registry/status/valid
+2,en,strut_dim,2,medium,medium,https://inspire.ec.europa.eu/registry/status/valid
+3,en,strut_dim,3,coarse,coarse,https://inspire.ec.europa.eu/registry/status/valid
+4,en,strut_dim,4,very coarse,very coarse,https://inspire.ec.europa.eu/registry/status/valid

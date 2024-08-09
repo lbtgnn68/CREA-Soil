@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+pell_loc,it,"Pellicole, localizzazione",Localizzazione delle pellicole,"4.4.14 Pellicole, localizzazione - Tabella 4.72, p. 212. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CoatingLocationValueCode
+pell_loc,en,Coatings Location,Coatings - location of coatings and clay accumulation,"4.4.14 Films, Localization - Table 4.72, p. 212. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CoatingLocationValueCode

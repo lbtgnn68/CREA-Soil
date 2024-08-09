@@ -1,0 +1,13 @@
+localid,Language,collection,label,description ,definition,status
+CM,it,sub_strutt,CM,consolidato massivo,consolidato massivo,https://inspire.ec.europa.eu/registry/status/valid
+CS,it,sub_strutt,CS,consolidato stratificato,consolidato stratificato,https://inspire.ec.europa.eu/registry/status/valid
+CV,it,sub_strutt,CV,consolidato caotico,consolidato caotico,https://inspire.ec.europa.eu/registry/status/valid
+IM,it,sub_strutt,IM,non consolidato massivo,non consolidato massivo,https://inspire.ec.europa.eu/registry/status/valid
+IS,it,sub_strutt,IS,non consolidato stratificato,non consolidato stratificato,https://inspire.ec.europa.eu/registry/status/valid
+IV,it,sub_strutt,IV,non consolidato caotico,non consolidato caotico,https://inspire.ec.europa.eu/registry/status/valid
+CM,en,sub_strutt,CM,"massive, consolidated","massive, consolidated",https://inspire.ec.europa.eu/registry/status/valid
+CS,en,sub_strutt,CS,"startified, consolidated","startified, consolidated",https://inspire.ec.europa.eu/registry/status/valid
+CV,en,sub_strutt,CV,"caotic, consolidated","caotic, consolidated",https://inspire.ec.europa.eu/registry/status/valid
+IM,en,sub_strutt,IM,massive not consolidated,massive not consolidated,https://inspire.ec.europa.eu/registry/status/valid
+IS,en,sub_strutt,IS,stratified not consolidated,stratified not consolidated,https://inspire.ec.europa.eu/registry/status/valid
+IV,en,sub_strutt,IV,caotic not consolidated,caotic not consolidated,https://inspire.ec.europa.eu/registry/status/valid

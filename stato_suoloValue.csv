@@ -1,0 +1,17 @@
+localid,Language,collection,label,description ,definition,status
+AR,it,stato_suolo,AR,arato di recente,arato di recente,https://inspire.ec.europa.eu/registry/status/valid
+CC,it,stato_suolo,CC,coltura o inerbimento in atto,coltura o inerbimento in atto,https://inspire.ec.europa.eu/registry/status/valid
+LL,it,stato_suolo,LL,altre lavorazioni,altre lavorazioni,https://inspire.ec.europa.eu/registry/status/valid
+NE,it,stato_suolo,NE,vegetazione spontanea su suolo agricolo,vegetazione spontanea su suolo agricolo,https://inspire.ec.europa.eu/registry/status/valid
+NN,it,stato_suolo,NN,nudo post raccolto o sfalcio,nudo post raccolto o sfalcio,https://inspire.ec.europa.eu/registry/status/valid
+OO,it,stato_suolo,OO,spandimento recente di sostanza organica,spandimento recente di sostanza organica,https://inspire.ec.europa.eu/registry/status/valid
+PP,it,stato_suolo,PP,pacciamato,pacciamato,https://inspire.ec.europa.eu/registry/status/valid
+TT,it,stato_suolo,TT,copertura di materiali tecnologici di scarto,copertura di materiali tecnologici di scarto,https://inspire.ec.europa.eu/registry/status/valid
+AR,en,stato_suolo,AR,recently ploughed,recently ploughed,https://inspire.ec.europa.eu/registry/status/valid
+CC,en,stato_suolo,CC,present gassing or crop cultivation,present gassing or crop cultivation,https://inspire.ec.europa.eu/registry/status/valid
+LL,en,stato_suolo,LL,other working,other working,https://inspire.ec.europa.eu/registry/status/valid
+NE,en,stato_suolo,NE,spontaneous vegetation on cropland soil,spontaneous vegetation on cropland soil,https://inspire.ec.europa.eu/registry/status/valid
+NN,en,stato_suolo,NN,bare after harvest,bare after harvest,https://inspire.ec.europa.eu/registry/status/valid
+OO,en,stato_suolo,OO,recent spreading of organic matter,recent spreading of organic matter,https://inspire.ec.europa.eu/registry/status/valid
+PP,en,stato_suolo,PP,littered,littered,https://inspire.ec.europa.eu/registry/status/valid
+TT,en,stato_suolo,TT,cover of technological materials refuses,cover of technological materials refuses,https://inspire.ec.europa.eu/registry/status/valid

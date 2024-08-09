@@ -1,0 +1,3 @@
+localid,Language,label,description,definition
+facce_tipo,it,"Facce, tipo","Facce di pressione e scorrimento, Tipo","4.4.15 Facce di pressione e scorrimento, Tipo - Tabella 4.73, p. 213. https://doi.org/10.5281/zenodo.7589089"
+facce_tipo,en,"Faces, Type","Pressure and Shear Faces, Type","4.4.15 Pressure and Shear Faces, Type - Table 4.73, p. 213. https://doi.org/10.5281/zenodo.7589089"

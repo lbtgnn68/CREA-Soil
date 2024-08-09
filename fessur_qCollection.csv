@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+fessur_q,it,Quantit? delle fessure,Quantit? delle fessure superficiali,"4.3.4 Caratteri di superficie, Fessure superficiali - Figura 4.9, p. 181. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CracksDistanceValueCode
+fessur_q,en,Cracks - density," Surface Features, Surface Cracks","4.3.4 Surface Features, Surface Cracks - Figure 4.9, p. 181. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CracksDistanceValueCode

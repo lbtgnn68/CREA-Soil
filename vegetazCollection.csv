@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+vegetaz,it,Vegetazione,Tipo di vegetazione reale,"4.3.3 Uso del suolo e vegetazione, Tipo di vegetazione reale - Tabella 4.26, p. 177. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/VegetationClassValueCode
+vegetaz,en,Land cover,"Land Use and Vegetation, Type of Actual Vegetation","4.3.3 Land Use and Vegetation, Type of Actual Vegetation - Table 4.26, p. 177. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/VegetationClassValueCode

@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+pellic_quanti,it,"Pellicole, abbondanza",Abbondanza di pellicole,"4.4.14 Pellicole, Abbondanza - Tabella 4.70, p. 212. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CoatingAbundanceValueCode
+pellic_quanti,en,Coatings Abundance,Coatings Abundance,"4.4.14 Films, Abundance - Table 4.70, p. 212. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CoatingAbundanceValueCode

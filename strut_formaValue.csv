@@ -1,0 +1,25 @@
+localid,Language,collection,label,description ,definition,status
+0,it,strut_forma,0,assente,assente,https://inspire.ec.europa.eu/registry/status/valid
+1,it,strut_forma,1,lamellare,lamellare,https://inspire.ec.europa.eu/registry/status/valid
+10,it,strut_forma,10,di roccia incoer. (stratificata),di roccia incoer. (stratificata),https://inspire.ec.europa.eu/registry/status/valid
+11,it,strut_forma,11,di roccia coerente,di roccia coerente,https://inspire.ec.europa.eu/registry/status/valid
+2,it,strut_forma,2,prismatica,prismatica,https://inspire.ec.europa.eu/registry/status/valid
+3,it,strut_forma,3,poliedrica angolare,poliedrica angolare,https://inspire.ec.europa.eu/registry/status/valid
+4,it,strut_forma,4,poliedrica subangolare,poliedrica subangolare,https://inspire.ec.europa.eu/registry/status/valid
+5,it,strut_forma,5,granulare,granulare,https://inspire.ec.europa.eu/registry/status/valid
+6,it,strut_forma,6,grumosa,grumosa,https://inspire.ec.europa.eu/registry/status/valid
+7,it,strut_forma,7,cuneiforme,cuneiforme,https://inspire.ec.europa.eu/registry/status/valid
+8,it,strut_forma,8,nuciforme,nuciforme,https://inspire.ec.europa.eu/registry/status/valid
+9,it,strut_forma,9,colonnare,colonnare,https://inspire.ec.europa.eu/registry/status/valid
+0,en,strut_forma,0,absent,absent,https://inspire.ec.europa.eu/registry/status/valid
+1,en,strut_forma,1,platy,platy,https://inspire.ec.europa.eu/registry/status/valid
+10,en,strut_forma,10,incoherent rock (stratified),incoherent rock (stratified),https://inspire.ec.europa.eu/registry/status/valid
+11,en,strut_forma,11,coherent rock,coherent rock,https://inspire.ec.europa.eu/registry/status/valid
+2,en,strut_forma,2,prismatic,prismatic,https://inspire.ec.europa.eu/registry/status/valid
+3,en,strut_forma,3,angular blocky,angular blocky,https://inspire.ec.europa.eu/registry/status/valid
+4,en,strut_forma,4,subangular blocky,subangular blocky,https://inspire.ec.europa.eu/registry/status/valid
+5,en,strut_forma,5,granular,granular,https://inspire.ec.europa.eu/registry/status/valid
+6,en,strut_forma,6,crumbly,crumbly,https://inspire.ec.europa.eu/registry/status/valid
+7,en,strut_forma,7,wedge,wedge,https://inspire.ec.europa.eu/registry/status/valid
+8,en,strut_forma,8,cubic,cubic,https://inspire.ec.europa.eu/registry/status/valid
+9,en,strut_forma,9,columnar,columnar,https://inspire.ec.europa.eu/registry/status/valid

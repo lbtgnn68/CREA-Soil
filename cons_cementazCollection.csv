@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+cons_cementaz,it,Cementazione,Resistenza a rottura e grado di cementazione (Modalit… di rottura),"4.4.9 Resistenza a rottura e grado di cementazione (Modalit… di rottura) - Tabella 4.55, p. 199. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CementationContinuityValueCode
+cons_cementaz,en,Cementation,Cementation,"4.4.9 Break Resistance and Cementation Degree (Breakage Method) - Table 4.55, p. 199. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/CementationContinuityValueCode

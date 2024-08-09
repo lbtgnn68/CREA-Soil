@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+deposizione,it,Deposizione,tipo di deposizione,"4.3.1 Erosione e deposizione. Codifica della tipologia di deposizione - Tabella 4.13, p. 161. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/ErosionCategoryValueCode
+deposizione,en,Deposition,Erosion and Deposition. Deposition Type Coding,"4.3.1 Erosion and Deposition. Deposition Type Coding - Table 4.13, p. 161. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/ErosionCategoryValueCode

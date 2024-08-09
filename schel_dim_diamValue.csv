@@ -1,0 +1,15 @@
+localid,Language,collection,label,description ,definition,status
+5,it,schel_dim_diam,5,ghiaia fine (2-5 mm),ghiaia fine (2-5 mm),https://inspire.ec.europa.eu/registry/status/valid
+50,it,schel_dim_diam,50,ghiaia fine (2-5 mm),ghiaia fine (2-5 mm),https://inspire.ec.europa.eu/registry/status/valid
+200,it,schel_dim_diam,200,ghiaia media (5-20 mm),ghiaia media (5-20 mm),https://inspire.ec.europa.eu/registry/status/valid
+760,it,schel_dim_diam,760,ghiaia grossolana (20-76 mm),ghiaia grossolana (20-76 mm),https://inspire.ec.europa.eu/registry/status/valid
+2500,it,schel_dim_diam,2500,ciottoli (76-250 mm),ciottoli (76-250 mm),https://inspire.ec.europa.eu/registry/status/valid
+6000,it,schel_dim_diam,6000,pietre (250-600 mm),pietre (250-600 mm),https://inspire.ec.europa.eu/registry/status/valid
+9999,it,schel_dim_diam,9999,massi (>600 mm),massi (>600 mm),https://inspire.ec.europa.eu/registry/status/valid
+5,en,schel_dim_diam,5,fine gravel (2-5 mm),fine gravel (2-5 mm),https://inspire.ec.europa.eu/registry/status/valid
+50,en,schel_dim_diam,50,fine gravel (2-5 mm),fine gravel (2-5 mm),https://inspire.ec.europa.eu/registry/status/valid
+200,en,schel_dim_diam,200,medium gravel (5-20 mm),medium gravel (5-20 mm),https://inspire.ec.europa.eu/registry/status/valid
+760,en,schel_dim_diam,760,coarse gravel (20-76 mm),coarse gravel (20-76 mm),https://inspire.ec.europa.eu/registry/status/valid
+2500,en,schel_dim_diam,2500,cobbles (76-250 mm),cobbles (76-250 mm),https://inspire.ec.europa.eu/registry/status/valid
+6000,en,schel_dim_diam,6000,stones (250-600 mm),stones (250-600 mm),https://inspire.ec.europa.eu/registry/status/valid
+9999,en,schel_dim_diam,9999,boulders (>600 mm),boulders (>600 mm),https://inspire.ec.europa.eu/registry/status/valid

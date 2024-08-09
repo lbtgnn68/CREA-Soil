@@ -1,0 +1,3 @@
+localid,Language,label,description,definition,isEquivalentTo
+cons_plast,it,Plasticit…,Plasticit…,"4.4.9 Plasticit… - Tabella 4.54, p. 199. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/PlasticityValueCode
+cons_plast,en,Plasticity,Soil Plasticity,"4.4.9 Plasticity - Table 4.54, p. 199. https://doi.org/10.5281/zenodo.7589089",http://w3id.org/glosis/model/codelists/PlasticityValueCode

@@ -1,0 +1,9 @@
+localid,Language,collection,label,description ,definition,status
+1,it,umidita,1,secco,secco,https://inspire.ec.europa.eu/registry/status/valid
+2,it,umidita,2,umido,umido,https://inspire.ec.europa.eu/registry/status/valid
+3,it,umidita,3,molto umido (senza acqua libera),molto umido (senza acqua libera),https://inspire.ec.europa.eu/registry/status/valid
+4,it,umidita,4,bagnato (con acqua libera),bagnato (con acqua libera),https://inspire.ec.europa.eu/registry/status/valid
+1,en,umidita,1,dry,dry,https://inspire.ec.europa.eu/registry/status/valid
+2,en,umidita,2,moist,moist,https://inspire.ec.europa.eu/registry/status/valid
+3,en,umidita,3,very moist (with no free water),very moist (with no free water),https://inspire.ec.europa.eu/registry/status/valid
+4,en,umidita,4,wet (with free water),wet (with free water),https://inspire.ec.europa.eu/registry/status/valid

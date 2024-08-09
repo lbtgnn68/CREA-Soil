@@ -1,0 +1,3 @@
+localid,Language,label,description,definition
+litolpm_comp,it,"Materiale genitore, Composizione",Composizione granulometrica del materiale genitore (parent material),"4.3.2 Descrizione del parent material (materiale genitore), Composizione granulometrica - Tabella 4.23, p. 171. https://doi.org/10.5281/zenodo.7589089"
+litolpm_comp,en,"Parent Material, Composition",Parent material - texture class of unconsolidated material,"4.3.2 Parent Material Description, Particle Size Composition - Table 4.23, p. 171. https://doi.org/10.5281/zenodo.7589089"
